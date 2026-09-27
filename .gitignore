@@ -1,7 +1,7 @@
-# Positivliste: nur Code, Dokumentation und kleine Pruefsaetze gehen ins Repo.
-# (archiv/ mit alten Versuchen und Laufskripten bleibt ebenfalls lokal.)
-# Alles andere bleibt lokal - Trainingsdaten, Modelle, Wikipedia-Indizes,
-# Wikidata-Tabellen, Sprachaufnahmen, Protokolle - auch kuenftige Dateien.
+# Allowlist: only code, documentation and the small question sets are tracked.
+# Everything else stays local - training data, checkpoints, Wikipedia indexes,
+# Wikidata tables, voice recordings, logs, old experiments (archiv/) -
+# including files created in the future.
 /*
 !/.gitignore
 !/requirements.txt
@@ -9,11 +9,17 @@
 !/*.sh
 !/*.md
 !/*.html
-!/chat_fragen_*.json
 !/tokenizer/
 !/esp32_sd/
+!/knowledge/
+!/lm/
+!/training/
+!/evaluation/
+!/speech/
+!/scripts/
+!/docs/
 
-# Pod-Infrastruktur (Zugang, Waechter, Abholer, Kosten) bleibt draussen
+# cloud GPU infrastructure (access, watchdog, fetcher, costs) stays local
 /podauf.sh
 /wache_vorlage.sh
 /holen_vorlage.sh
@@ -26,7 +32,7 @@
 /lauf_lesen.sh
 /lauf_lesen_c.sh
 
-# im Geraete-Ordner nur Code: Indizes (1,2 GB) und das persoenliche Gedaechtnis nicht
+# device folder: code only - no indexes (1.2 GB), no personal memory log
 /esp32_sd/wiki_sd*/
 /esp32_sd/*.jsonl
 gedaechtnis*.jsonl
@@ -40,5 +46,5 @@ __pycache__/
 *.wav
 *.log
 
-# erzeugte Modellberichte enthalten absolute lokale Pfade
+# generated model reports contain absolute local paths
 /esp32_sd/reports/*.manifest.json

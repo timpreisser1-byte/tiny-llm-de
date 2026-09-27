@@ -6,9 +6,9 @@ import unittest
 import torch
 
 from .model_manifest import manifest
-from model import Config, TinyLM
-from quantize import schreibe_datei
-from ternaer import beschraenke
+from lm.model import Config, TinyLM
+from lm.quantize import schreibe_datei
+from lm.ternary import beschraenke
 
 
 class ManifestTests(unittest.TestCase):

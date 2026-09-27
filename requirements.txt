@@ -1,9 +1,9 @@
-# Wissens-Kette, Training und Auswertung
+# answer chain, training and evaluation
 torch
 numpy
 tokenizers
 pyarrow
-# nur fuer den Sprachteil (asr_*, tts_*, geraet_sprache.py)
+# speech part only (speech/)
 soundfile
 sounddevice
 onnxruntime

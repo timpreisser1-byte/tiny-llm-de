@@ -162,7 +162,7 @@ def main():
         facts = None
         if not args.ohne_fakten:
             try:
-                from fakten import Fakten      # project root, run as python -m esp32_sd.chat
+                from knowledge.facts import Fakten      # project root, run as python -m esp32_sd.chat
                 facts = Fakten()
             except ImportError:
                 print("[Wikidata-Tabellen nicht gefunden - weiter ohne]")

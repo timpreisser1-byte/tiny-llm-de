@@ -17,9 +17,9 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 
 import torch
-from model import Config, TinyLM
-from quantize import schreibe_datei
-from ternaer import beschraenke
+from lm.model import Config, TinyLM
+from lm.quantize import schreibe_datei
+from lm.ternary import beschraenke
 
 RESTRICTED = {"BitLinear", "SherryLinear", "SchwellLinear", "SherrySkala", "BinLinear", "BinSkala"}
 HEADER_FIELDS = {"vocab_size", "n_layer", "n_head", "d_model", "d_ff", "block_size"}

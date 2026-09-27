@@ -15,9 +15,9 @@ ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from chat_format import build_prompt, mit_wissen
-from model import Config, TinyLM
-from ternaer import beschraenke
+from lm.chat_format import build_prompt, mit_wissen
+from lm.model import Config, TinyLM
+from lm.ternary import beschraenke
 
 
 class ModelBackend:
