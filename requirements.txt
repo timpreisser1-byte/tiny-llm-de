@@ -1,0 +1,9 @@
+# Wissens-Kette, Training und Auswertung
+torch
+numpy
+tokenizers
+pyarrow
+# nur fuer den Sprachteil (asr_*, tts_*, geraet_sprache.py)
+soundfile
+sounddevice
+onnxruntime

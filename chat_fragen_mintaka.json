@@ -1,0 +1,4043 @@
+[
+ {
+  "frage": "In welchem Jahr wurde in der NBA der Drei-Punkte-Schuss eingeführt?",
+  "antwort": [
+   "1979"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie hieß der Chadwick Bosemans letzter Film?",
+  "antwort": [
+   "Ma Rainey’s Black Bottom"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war ein Afroamerikaner und auch Präsident?",
+  "antwort": [
+   "Barack Obama"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war der 25. Präsident?",
+  "antwort": [
+   "William McKinley"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Die Wahl hat Donald Trump leiden, seine größte, in einer Volksabstimmung Verlust?",
+  "antwort": [
+   "2020"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was ist die Bevölkerungszahl des Landes, in dem sich die „Spanische Treppe“ befindet?",
+  "antwort": [
+   "4.2",
+   "4,2"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Fluch-der-Karibik-Film hatte das kleinste Budget?",
+  "antwort": [
+   "Fluch der Karibik"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Beatle war finanziell am erfolgreichsten?",
+  "antwort": [
+   "Paul McCartney"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer hat die meisten Nummer-Eins-Hits der Billboard Hot 100 Charts?",
+  "antwort": [
+   "The Beatles"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war der männliche Hauptdarsteller in der Verfilmung des ersten Romans der Millennium Reihe von Stieg Larsson?",
+  "antwort": [
+   "Daniel Craig"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war der erste Preisträger des Hugo Award für den besten Roman?",
+  "antwort": [
+   "Alfred Bester"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was war die längste Amtszeit in Tagen, die ein Vizepräsident in der Geschichte der USA hatte?",
+  "antwort": [
+   "2922"
+  ],
+  "typ": "count",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Land gehörte zu den Achsenmächten und wo befindet sich der Berg Fidschi?",
+  "antwort": [
+   "Japan"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Bahnbrechende Echtzeit-Strategiespiel erschien 1989 für den Sega Genesis?",
+  "antwort": [
+   "Herzog Zwei"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was war der letzte Roman von William Faulkner, der nicht in Mississippi gespielt hat?",
+  "antwort": [
+   "A Fable"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchem Jahr erschien das erste Buch der Divergent-Trilogie?",
+  "antwort": [
+   "2011"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher US-Präsident Präsident hat nie geheiratet?",
+  "antwort": [
+   "James Buchanan"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Stadt hat Sin City als Spitznamen?",
+  "antwort": [
+   "Las Vegas"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wo wurde der Autor von Oliver Twist geboren?",
+  "antwort": [
+   "Landport"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Shenmue-Spiel spielt in der Region Hongkong und wurde im Jahr 2021 veröffentlicht?",
+  "antwort": [
+   "Shenmue II"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchem Jahr gewann Michael Jordan seine erste NBA Meisterschaft?",
+  "antwort": [
+   "1991"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Zu welcher Partei gehörte der Präsident, der in den Koreakrieg intervenierte?",
+  "antwort": [
+   "Demokratische Partei"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche alte Zivilisation folgte der mykenischen Zivilisation?",
+  "antwort": [
+   "Antikes Griechenland"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Präsident der USA hat nie im Weißen Haus gelebt?",
+  "antwort": [
+   "George Washington"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist der jüngste Spieler, der Wimbledon gewonnen hat?",
+  "antwort": [
+   "Boris Becker"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer wurde als Schauspieler für den Oskar am meisten nominiert?",
+  "antwort": [
+   "Meryl Streep"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Buch der Star Wars Thrawn-Trilogie wurde 1993 veröffentlicht?",
+  "antwort": [
+   "Das letzte Kommando"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche amerikanischen Präsidenten seit dem Beginn des 20. Jh. wurden nicht wiedergewählt?",
+  "antwort": [
+   "William Howard Taft",
+   "Herbert Hoover",
+   "Gerald Ford",
+   "Jimmy Carter",
+   "George H. W. Bush",
+   "Donald Trump"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was ist der höchste Berg der Welt?",
+  "antwort": [
+   "Mount Everest"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie viele Provinzen hat China?",
+  "antwort": [
+   "10"
+  ],
+  "typ": "count",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was ist das vierte \"Legend of Zelda\"-Spiel der frühen Ära?",
+  "antwort": [
+   "The Legend of Zelda: Link’s Awakening"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Schauspieler spielte in den meisten Filmen und TV-Shows mit?",
+  "antwort": [
+   "John Carradine"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Krieg hatte die meisten Todesopfer, der Erste oder der Zweite Weltkrieg?",
+  "antwort": [
+   "Zweiter Weltkrieg"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchem Jahr haben die Buffalo Bills ihren zweiten Super Bowl verloren?",
+  "antwort": [
+   "1992"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie heißt die sechste Konzerttournee von Twenty One Pilots?",
+  "antwort": [
+   "The Bandito Tour"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war die letzte Ehefrau der Hauptfigur aus dem letzten Samurai?",
+  "antwort": [
+   "Katie Holmes"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher ist der längste jemals geschriebene Roman?",
+  "antwort": [
+   "Venmurasu"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wann wurde das zweite „Twilight”-Buch veröffentlicht?",
+  "antwort": [
+   "2006"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Zivilisation stammte Hannibal ab?",
+  "antwort": [
+   "Karthago"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Mitglied von Weezer hat die Band nicht verlassen?",
+  "antwort": [
+   "Rivers Cuomo",
+   "Patrick Wilson"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer gewann 2019 die NBA Finals?",
+  "antwort": [
+   "Toronto Raptors"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war einer der Darsteller in „Stiefbrüder“ und ging auch auf das Hendrix College?",
+  "antwort": [
+   "Mary Steenburgen"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchem Jahr waren die Beatles für einen Grammy nominiert, haben ihn aber nicht gewonnen?",
+  "antwort": [
+   "1966"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher ist der dritthöchste Berg der USA?",
+  "antwort": [
+   "Mount Foraker"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches war das erste Mario Spiel, in dem Toad vorkam?",
+  "antwort": [
+   "Super Mario Bros."
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was ist die durchschnittliche Temperatur in Miami, Florida im Juli?",
+  "antwort": [
+   "89"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Stadt hat den Spitznamen Lichterstadt?",
+  "antwort": [
+   "Paris"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche der Berenstain-Bücher aus den 60er Jahren erschienen nicht 1968?",
+  "antwort": [
+   "The Big Honey Hunt"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wann fiel das Griechische Reich?",
+  "antwort": [
+   "323 "
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was war das erste Dragon-Quest-Spiel, das ursprünglich nicht auf einem Nintendo-System erschien?",
+  "antwort": [
+   "Dragon Warrior VII"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war der Quarterback des Teams, das den Super Bowl LIII gewonnen hat?",
+  "antwort": [
+   "Tom Brady"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Land ist von der Landmasse her größer, Kanada oder die Vereinigten Staaten?",
+  "antwort": [
+   "Kanada"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches ist das dritte Metallica-Album?",
+  "antwort": [
+   "Master of Puppets"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer kommt aus Illinois und wurde 2009 zum Präsidenten gewählt?",
+  "antwort": [
+   "Barack Obama"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist der am längsten amtierende Amerikanische Präsident?",
+  "antwort": [
+   "Franklin Delano Roosevelt"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war US-Präsident, als Lehman Brothers in den Konkurs gingen?",
+  "antwort": [
+   "Barack Obama"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Sänger gewann 2021 den Grammy für \"Album of the Year\" und steht bei den Labels Republic und Big Machine unter Vertrag?",
+  "antwort": [
+   "Taylor Swift"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Allianz im Ersten Weltkrieg bestand aus Deutschland, Österreich-Ungarn, Bulgarien und dem Osmanischen Reich?",
+  "antwort": [
+   "Mittelmächte"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie lautete der Name der berühmten chinesischen Handelstraße, während der Han Dynastie?",
+  "antwort": [
+   "Seidenstraße"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer hat die meisten Nominierungen für einen Grammy Award der Geschichte?",
+  "antwort": [
+   "Jay-Z",
+   "Quincy Jones"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Regisseur ist jünger, Damien Chazelle oder Sam Mendes?",
+  "antwort": [
+   "Damien Chazelle"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie hieß Bob Dylans letztes Album?",
+  "antwort": [
+   "Rough and Rowdy Ways"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Mitglied der Bone Thugs N Harmony hat Gruppenalben herausgebracht und hatte eine Solokarriere?",
+  "antwort": [
+   "Bizzy Bone",
+   "Layzie Bone",
+   "Krayzie Bone"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher aktuelle Running Back der New York Giants spielte seinen College-Ball an der Penn State?",
+  "antwort": [
+   "Saquon Barkley"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war der längstgediente Militärherrscher Nigerias?",
+  "antwort": [
+   "Yakubu Gowon"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Von welchem Spiel in der Call of Duty Serie wurden die meisten Exemplare verkauft?",
+  "antwort": [
+   "Call of Duty: Black Ops"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist der älteste lebende Gewinner eines Academy Awards für die Beste Regie?",
+  "antwort": [
+   "Clint Eastwood"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie viele Merseyside-Derbys hat Liverpool nicht gegen Everton gewonnen?",
+  "antwort": [
+   "143"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Regierungsform hat Oman?",
+  "antwort": [
+   "absolute Monarchie"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was ist das erste Album von Faith Hills?",
+  "antwort": [
+   "Take Me as I Am"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Schauspieler war in „Jerry Maguire” und wurde in Syracuse, New York, geboren?",
+  "antwort": [
+   "Tom Cruise"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist jünger, Elton John oder Cher?",
+  "antwort": [
+   "Elton John"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Für welchen Film wurde Saiorse Ronan 2017 als beste Schauspielerin nominiert, gewann aber nicht?",
+  "antwort": [
+   "Lady Bird"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches war der erste Präsident, der im Weißen Haus lebte?",
+  "antwort": [
+   "John Adams"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche menschliche Mario-Figur war, die einen gelben Hut trug, keine Hauptfigur?",
+  "antwort": [
+   "Wario"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie lange war der dienstälteste Bürgermeister von New York im Amt?",
+  "antwort": [
+   "11"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wann gewann Barack Obama die Wahl für seine erste Amtszeit als Präsident?",
+  "antwort": [
+   "2008"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchem Super Smash Bros-Spiel ist Sora ein spielbarer Charakter?",
+  "antwort": [
+   "Super Smash Bros. Ultimate"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Serie hat mehr Seiten: \"Der Herr der Ringe\" und \"Ranger's Apprentice\"?",
+  "antwort": [
+   "Der Herr der Ringe"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches war das zweite Call of Duty Spiel, das den Zombie Modus hatte?",
+  "antwort": [
+   "Call of Duty: Black Ops"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchem \"Donkey Kong\"-Spiel der Hauptserie für das NES kam Mario nicht vor?",
+  "antwort": [
+   "Donkey Kong 3"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wann wurde der Herr der Ringe erstmals veröffentlicht?",
+  "antwort": [
+   "1954"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Brüder flogen zuerst auf der Kitty Hawk?",
+  "antwort": [
+   "Brüder Wright"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Berg ist der höchste im Bundesstaat Washington?",
+  "antwort": [
+   "Mount Rainier"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Waffe verwendet Cait Sith aus Final Fantasy VII?",
+  "antwort": [
+   "Sprachrohr"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchem Jahr fand das erste aufgezeichnete Baseballspiel statt?",
+  "antwort": [
+   "1846"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchen \"Mario Kart\"-Spiel kam Peach nicht vor?",
+  "antwort": [
+   "Mario Kart Live: Home Circuit"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchem Staat hat die Person, die 1980 zum Präsidenten gewählt wurde, früher als Gouverneur fungiert?",
+  "antwort": [
+   "Kalifornien"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Serie hat mehr als ein Buch: \"Outlander\" oder \"A song of Ice and Fire\"?",
+  "antwort": [
+   "Feuer und Stein"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchen Jahren war die Band Eagles nicht aktiv?",
+  "antwort": [
+   "1981"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welchen Beruf hatte Abraham Lincolns Attentäter?",
+  "antwort": [
+   "Schauspieler"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches wesentliche, an den Anschlägen vom 9. September beteiligte Flugzeug ist nicht in ein Gebäude gestürzt?",
+  "antwort": [
+   "United-Airlines-Flug 93"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war das Mitglied von (G)I-DLE, das Thailänder ist?",
+  "antwort": [
+   "Minnie"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war der dritte chinesische Kaiser?",
+  "antwort": [
+   "Zhu Di"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Eminem-Alben wurden am öftesten mit der Platin-Schallplatte ausgezeichnet?",
+  "antwort": [
+   "The Marshall Mathers LP"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war der erste Sportler, der eine Meile in 4 Minuten lief?",
+  "antwort": [
+   "Roger Bannister"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist die Hauptfigur in Final Fantasy 7?",
+  "antwort": [
+   "Cloud Strife"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches ist das kürzeste Lied aller Zeiten?",
+  "antwort": [
+   "You Suffer"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchem Jahr begann der Zweite Punische Krieg?",
+  "antwort": [
+   "218 "
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Stadt ist als Beantown bekannt?",
+  "antwort": [
+   "Boston"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Für welchen Grammy Award von 2019 war Larry Klein nominiert, hat ihn aber nicht gewonnen?",
+  "antwort": [
+   "Grammy Award for Producer of the Year, Non-Classical"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie heißt der aktuelle Trainer des Teams, das die meisten NCAA Division I Baseball-Meisterschaften gewonnen hat?",
+  "antwort": [
+   "Jason Gill"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer hat mehr Liga-Divisionstitel, die Dallas Cowboys oder die Philadelphia Eagles?",
+  "antwort": [
+   "Dallas Cowboys"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In wie vielen Staaten hat Donald Trump bei der Präsidentschaftswahl von 2016 gewonnen?",
+  "antwort": [
+   "30"
+  ],
+  "typ": "count",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Jahr veröffentlichte Eminem sein erstes Lied?",
+  "antwort": [
+   "1998"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Land hat mehr Einwohner, Russland oder Thailand?",
+  "antwort": [
+   "Russland"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war Ehefrau und First Lady von Gerald Ford?",
+  "antwort": [
+   "Betty Ford"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Mitglied von Boyz II Men moderierte die Fernsehsendung Hit Properties?",
+  "antwort": [
+   "Nathan Morris"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Team spielt in Chicago, das früher Doug Atkins hatte?",
+  "antwort": [
+   "Chicago Bears"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchem Jahr gewann Marie Curie den Chemienobelpreis?",
+  "antwort": [
+   "1911"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist der Leadsänger der Red Hot Chili Peppers?",
+  "antwort": [
+   "Anthony Kiedis"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Ender Buch spielt nicht chronologisch nach Ender's Game?",
+  "antwort": [
+   "Enders Schatten"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchem Landkreis befindet sich San Jose, Kalifornien?",
+  "antwort": [
+   "Santa Clara County"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Land gewann die meiste Medaillen in der 2020 Tokyo Olympiaden?",
+  "antwort": [
+   "Vereinigte Staaten"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Fluch der Karibik Film ist der längste?",
+  "antwort": [
+   "Pirates of the Caribbean – Am Ende der Welt"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer spielte den Parkeigentümer John Hammond in „Jurassic Park“ und war Präsident auf Lebenszeit von FC Chelsea?",
+  "antwort": [
+   "Richard Attenborough"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Buch der „Harry Potter“-Reihe hat die wenigsten Kapitel?",
+  "antwort": [
+   "Harry Potter und der Stein der Weisen"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Stadt benutzt den Namen Sin City?",
+  "antwort": [
+   "Las Vegas"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wann war der letzte Kampf von Floyd Mayweather?",
+  "antwort": [
+   "2018"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Stadt ist das Big Easy?",
+  "antwort": [
+   "New Orleans"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist der Protagonist des vierten \"Final Fantasy\"-Spiels?",
+  "antwort": [
+   "Cecil Harvey"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher ist der längste Fluss in Südamerika?",
+  "antwort": [
+   "Amazonas"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches ehemalige Mitglied von Billy Joels Band hat Selbstmord begangen?",
+  "antwort": [
+   "Doug Stegmeyer"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wurde \"Der Hobbit\" vor oder nach der \"Herr der Ringe\"-Reihe geschrieben?",
+  "antwort": [
+   "Der Hobbit"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches der Bücher von Ramona Books ist nicht aus Ramonas's Perspektive geschrieben?",
+  "antwort": [
+   "Beezus and Ramona"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer gewann die Präsidentschaftswahl im Jahre 1816?",
+  "antwort": [
+   "James Monroe"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Land hat im Britisch-Amerikanischen Krieg gekämpft, aber nicht gewonnen?",
+  "antwort": [
+   "Großbritannien"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war der erste schwarze Mann, der einen Oscar gewann?",
+  "antwort": [
+   "Hattie McDaniel"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchem Staat befindet sich das Denkmal für Militärhunde?",
+  "antwort": [
+   "Texas"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Präsident erhielt seine Präsidentschaftsnominierung spät, weil er sämtliche fällige Korrespondenz verweigerte?",
+  "antwort": [
+   "Zachary Taylor"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher ist der kälteste Ort der Welt?",
+  "antwort": [
+   "Oimjakon"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer wurde 1135 König von England?",
+  "antwort": [
+   "Stephan"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher amerikanische Präsident war kein Weißer?",
+  "antwort": [
+   "Barack Obama"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Buch der Game of Thrones Reihe wurde 1998 veröffentlicht?",
+  "antwort": [
+   "A Clash of Kings"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Fluss fließt durch Ägypten und ist der längste Fluss in Afrika?",
+  "antwort": [
+   "Nil"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer wurde für die Beste Rock Gesangs-Darbietung 2017 nominiert, erhielt die Auszeichnung aber nicht?",
+  "antwort": [
+   "Chris Cornell"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Berg ist der zweithöchste Europas?",
+  "antwort": [
+   "Dychtau"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie viele Einwohner hatte Denver, Colorado im Jahre 2019?",
+  "antwort": [
+   "727211"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Team hat 2019 die NFC East Division gewonnen?",
+  "antwort": [
+   "Philadelphia Eagles"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie heißt das Elder-Scrolls-Spiel, das kein Single-Player-Spiel ist?",
+  "antwort": [
+   "The Elder Scrolls Online"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Fluss ist in den USA länger, der Missouri oder der \tMississippi?",
+  "antwort": [
+   "Missouri"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Staat hat mehr Wählerstimmen, Kalifornien oder New York?",
+  "antwort": [
+   "Kalifornien"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welchen Roman hat F. Scott Fitzgerald veröffentlicht, als er noch nicht mit Zelda verheiratet war?",
+  "antwort": [
+   "Diesseits vom Paradies"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches ist das dritte Studioalbum der irischen Rockband U2?",
+  "antwort": [
+   "War"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Song wurde 2021 als MTV VMA Best Alternative Song nominiert, hat aber nicht gewonnen?",
+  "antwort": [
+   "Transparent Soul"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war der Gegenspieler in Super Mario World?",
+  "antwort": [
+   "Bowser"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Fluss ist der kürzeste der USA?",
+  "antwort": [
+   "Rehfluss"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Für welchen Film aus dem Jahr 2018 war Willem Dafoe nominiert, hat jedoch nicht gewonnen?",
+  "antwort": [
+   "Van Gogh – An der Schwelle zur Ewigkeit"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Präsident heiratete seine Adoptivtochter?",
+  "antwort": [
+   "Grover Cleveland"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer schrieb die Red Rising-Bücherserie?",
+  "antwort": [
+   "Pierce Brown"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche ist die bevölkerungsreichste Stadt Norwegens?",
+  "antwort": [
+   "Oslo"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was ist das höchste Gebäude in der westlichsten Stadt Deutschlands?",
+  "antwort": [
+   "Commerzbank Tower"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher ist der größte Ozean der Welt?",
+  "antwort": [
+   "Pazifischer Ozean"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was ist der längste Song auf dem Electric Warrior Album von T. Rex?",
+  "antwort": [
+   "Cosmic Dancer"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist der Protagonist von God of War?",
+  "antwort": [
+   "Kratos"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wo ist der Verfasser der Bücher Jurassic Park geboren?",
+  "antwort": [
+   "Chicago",
+   "Illinois"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Team hatte in der NBA-Saison 2009-2010 den besten Scorer?",
+  "antwort": [
+   "Oklahoma City Thunder"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was ist das fünftlängste Flusssystem der Welt?",
+  "antwort": [
+   "Jenissei"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Disney-Film erzielte die meisten Einnahmen?",
+  "antwort": [
+   "Avengers: Endgame"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher der Großen Seen befindet sich nicht teilweise auf kanadischem Boden?",
+  "antwort": [
+   "Michigansee"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche/r Autor/in hat die meisten Filmadaptionen aus den eigenen Bücher gemacht?",
+  "antwort": [
+   "Charles Dickens"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Künstler hatte die meisten Nominierungen, hat aber keinen Grammy gewonnen?",
+  "antwort": [
+   "Nas"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist die jüngste Person, die je Gouverneur in den USA wurde?",
+  "antwort": [
+   "Stevens Mason"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie alt ist der Schauspieler, der Qui-Gon Jinn gespielt hat?",
+  "antwort": [
+   "69"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchem Jahr wurde das erste Buch der Twilight-Serie veröffentlicht?",
+  "antwort": [
+   "Jules Verne"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war während der Weltwirtschaftskrise Präsident der Vereinigten Staaten?",
+  "antwort": [
+   "Herbert Hoover"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Catcher spielte 1998 für die New York Mets, aber auch für zwei Teams der National League East?",
+  "antwort": [
+   "Mike Piazza"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Filme, bei denen George Lucas Regie führte, wurden für den Oscar für den besten Film nominiert, haben ihn aber nicht erhalten?",
+  "antwort": [
+   "Krieg der Sterne",
+   "American Graffiti"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war die erste Frau, die einen Grammy gewann?",
+  "antwort": [
+   "Ella Fitzgerald"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war zuerst Präsident, Franklin oder Theodore Roosevelt?",
+  "antwort": [
+   "Theodore Roosevelt"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Herrscher aus der zweiten ägyptischen Dynastie hatte keinen Vorgänger?",
+  "antwort": [
+   "Hetepsechemui"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was war Taylor Swifts erstes Album?",
+  "antwort": [
+   "Taylor Swift"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was ist der erste Song auf Taylor Swifts Album \"Red\"?",
+  "antwort": [
+   "State of Grace"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war der vierte Präsident von den Vereinigten Staaten?",
+  "antwort": [
+   "James Madison"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Land hat eine größere Bevölkerung, Bangladesch oder Pakistan?",
+  "antwort": [
+   "Pakistan"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie heißt der Starting-Quarterback für die Seattle Seahawks?",
+  "antwort": [
+   "Russell Wilson"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher ehemalige Vizepräsident kandidierte als Präsident im Jahr 2000?",
+  "antwort": [
+   "Al Gore"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche benannte Flüsse erreichen nicht den Nordpol?",
+  "antwort": [
+   "Pazifischer Ozean",
+   "Atlantischer Ozean",
+   "Indischer Ozean",
+   "Südlicher Ozean"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wann starb der Künstler, der „Blue Rondo” veröffentlicht hat?",
+  "antwort": [
+   "2012"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was ist das Videospiel mit den vierthöchsten Verkaufszahlen?",
+  "antwort": [
+   "Wii Sports"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Film wurde als erster fremdsprachiger Film mit dem Oscar für den besten Film ausgezeichnet?",
+  "antwort": [
+   "Parasite"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welcher Himmelsrichtung grenzt Südkorea nicht mit dem Wasser?",
+  "antwort": [
+   "Norden"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie viele Grammys hat Taylor Swift gewonnen?",
+  "antwort": [
+   "10"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Gouverneure von Kalifornien seit 1980 waren keine Demokraten?",
+  "antwort": [
+   "George Deukmejian",
+   "Pete Wilson",
+   "Arnold Schwarzenegger"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war die Ehefrau vom König Artus?",
+  "antwort": [
+   "Guinevere"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist der Hauptcharakter des \"Final Fantasy\"-Spiels, in dem das Junction-System vorkommt?",
+  "antwort": [
+   "Squall Leonhart"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher US-amerikanische Präsident war zu Beginn des Ersten Weltkrieges im Amt?",
+  "antwort": [
+   "Woodrow Wilson"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer schrieb die Gaea-Trilogie?",
+  "antwort": [
+   "John Varley"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wann startet das Chapter 2 von Fortnite?",
+  "antwort": [
+   "2019"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war die Ehefrau des 45. US-Vizepräsidenten?",
+  "antwort": [
+   "Karen Pence"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wen heiratet Harry Potter?",
+  "antwort": [
+   "Ginny Weasley"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wo wurde der Sänger von Call Me Maybe geboren?",
+  "antwort": [
+   "Kanada"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches ist das älteste Denkmal in der französischen Hauptstadt?",
+  "antwort": [
+   "Arena von Lutetia"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wann erhielt Julie Andrews ihren zweiten Emmy Award?",
+  "antwort": [
+   "2005"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was gilt als die erste bekannte Zivilisation Mexikos?",
+  "antwort": [
+   "Olmeken"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie starb der Sänger und Songwriter, der berühmt für die Rockballade „Bohemian Rhapsody” war?",
+  "antwort": [
+   "AIDS"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Land hat die meisten Inseln und ein Kreuz in der Nationalflagge?",
+  "antwort": [
+   "Schweden"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wann wurde der Regisseur von „Taxi Driver“ geboren?",
+  "antwort": [
+   "1942"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher See ist der größte der Welt?",
+  "antwort": [
+   "Kaspisches Meer"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer hat den Tod von Leo Trotzki und Dmitri Pawlow angeordnet?",
+  "antwort": [
+   "Josef Stalin"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer gewann mehr Grammys, Britney Spears oder Beyonce?",
+  "antwort": [
+   "Beyoncé"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wann veröffentlichte Queen den Song Bohemian Rhapsody?",
+  "antwort": [
+   "1975"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist der letzte Premierminister von Kanada?",
+  "antwort": [
+   "Justin Trudeau"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist das Westlife-Mitglied, das in Dublin, Irland, geboren ist?",
+  "antwort": [
+   "Nicky Byrne"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wann hat Derrick Jeter seine zweite World Series gewonnen?",
+  "antwort": [
+   "1998"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Mannschaft, die im Dodger Stadium spielt, hat Clayton Kershaw?",
+  "antwort": [
+   "Los Angeles Dodgers"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Mit welchem Team gewann David Cones die erste World Series?",
+  "antwort": [
+   "Toronto Blue Jays"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches war das meist verkaufte Spiel des Jahres 2007?",
+  "antwort": [
+   "Call of Duty 4: Modern Warfare"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war der erste Senator von Montana?",
+  "antwort": [
+   "Wilbur F. Sanders",
+   "Thomas Charles Power"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchem One-Direction-Album tritt Zayn Malik nicht auf?",
+  "antwort": [
+   "Made in the A.M."
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Mitglied der Gefährten hat nicht bis zum Ende der Herr-der-Ringe-Trilogie überlebt?",
+  "antwort": [
+   "Boromir"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Pokemon-Spiel ist für den GameBoy Advance geeignet und ist ein Upgrade der Roten Version?",
+  "antwort": [
+   "Pokémon Feuerrote Edition"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wo findet das Pokemon Schwert statt?",
+  "antwort": [
+   "Galar"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Spiel wurde von Yoshio Sakamoto entworfen und wurde am 8. Oktober 2021 veröffentlicht?",
+  "antwort": [
+   "Metroid Dread"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer wurde sowohl von den Oakland Athletics als auch von den Arizona Cardinals gedraftet und besuchte Oklahoma?",
+  "antwort": [
+   "Kyler Murray"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Ozean ist der kleinste der Welt?",
+  "antwort": [
+   "Arktischer Ozean"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Staat hat mehr Bundesrepräsentanten, Texas oder Utah?",
+  "antwort": [
+   "Texas"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie heißt der derzeitige Gouverneur von Alaska?",
+  "antwort": [
+   "Mike J. Dunleavy"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer gewann den Grammy für den Song des Jahres 2016?",
+  "antwort": [
+   "Uptown Funk"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Bioshock-Spiele wurden nicht von 2K Marin entwickelt?",
+  "antwort": [
+   "BioShock",
+   "BioShock Infinite"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Jimi Hendrix, The Ramones, Dean Martin, Sammy Davis Jr., The Beach Boys und Run DMC haben alle Auszeichnungen für ihr Lebenswerk erhalten, aber welche Auszeichnung hat keiner von ihnen gewonnen?",
+  "antwort": [
+   "Grammy Awards"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Für welchen Grammy Award war Every Teardrop is a Waterfall nominiert, ohne ihn zu gewinnen?",
+  "antwort": [
+   "Grammy Award for Best Rock Performance"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher französischer Monarch regierte am längsten?",
+  "antwort": [
+   "Ludwig XIV."
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie lautet der Name des Bundesstaates, in dem der größte Staudamm der USA liegt?",
+  "antwort": [
+   "Kalifornien"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie viele Hochstapler, die vorgaben, Marie Antionettes Sohn zu sein, waren eigentlich nicht ihr Sohn?",
+  "antwort": [
+   "100"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Präsident des frühen 19. Jahrhunderts ist berühmt dafür, sich duelliert zu haben?",
+  "antwort": [
+   "Andrew Jackson"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wo hat Brian Jacques angefangen die Redwall-Bücherserie zu schreiben?",
+  "antwort": [
+   "Liverpool"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie viele Mitglieder hat die Europäische Union derzeit?",
+  "antwort": [
+   "27"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie viele Zelda-Spiele gibt es?",
+  "antwort": [
+   "27"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Mainline-Spiel ist in der „City Building“-Serie enthalten und hat seinen Schauplatz im alten Griechenland?",
+  "antwort": [
+   "Herrscher des Olymp – Zeus"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was war das erste Battlefield-Spiel, das nicht für Konsolen erhältlich war?",
+  "antwort": [
+   "Battlefield 1942"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war ein Kaiser von Frankreich und wurde nach Elba verbannt?",
+  "antwort": [
+   "Napoleon Bonaparte"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches NFL-Team spielt im Soldier Field und gewann 1985 den Super Bowl?",
+  "antwort": [
+   "Chicago Bears"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was ist das dritte Buch in der Dark Materials Trilogie?",
+  "antwort": [
+   "Das Bernstein-Teleskop"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Mitglied von So Icey hat die meisten Platten verkauft, musste aber auch ins Gefängnis?",
+  "antwort": [
+   "Gucci Mane"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer hat mehr NBA-Meisterschaften gewonnen, LeBron James oder Kobe Bryant?",
+  "antwort": [
+   "Kobe Bryant"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchen Super Bowls haben die Packers gespielt, sie aber nicht gewonnen?",
+  "antwort": [
+   "Super Bowl XXXII"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Mitglied von The Eagles sang die Backup-Stimme beim Hit \"Walkaway Joe\" von Trisha Yearwood?",
+  "antwort": [
+   "Don Henley"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist der jüngste männliche Sportler die Wimbledonmeisterschaft zu gewinnen?",
+  "antwort": [
+   "Boris Becker"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Der in Illinois geborene Ronald Reagan zog in seinen Zwanzigern nach Kalifornien, um als was zu arbeiten?",
+  "antwort": [
+   "Schauspieler"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Mannschaft hält den NBA-Rekord für die meisten Siege in der regulären Saison?",
+  "antwort": [
+   "Golden State Warriors"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher ist der längste Harry-Potter-Film?",
+  "antwort": [
+   "Harry Potter und die Kammer des Schreckens"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches war kürzer, der Krieg in Afghanistan oder der Irakkrieg?",
+  "antwort": [
+   "Irakkrieg"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher ist der viergrößte Süßwassersee in Asien?",
+  "antwort": [
+   "Taimyrsee"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie heißt die Bevölkerung des Staates, in dem sich Mount Rushmore befindet?",
+  "antwort": [
+   "884"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchem Christopher-Nolan-Film aus dem Jahr 2020 spielt Matt Damon nicht mit?",
+  "antwort": [
+   "Tenet"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Alexander-Roman von Mary Renault erschien vor Der persische Junge?",
+  "antwort": [
+   "Fire from Heaven"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist der Protagonist im achten Final Fantasy-Spiel?",
+  "antwort": [
+   "Squall Leonhart"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie lautet der Titel des Buches, das den ersten Hugo Award für den besten Roman gewonnen hat?",
+  "antwort": [
+   "Sturm aufs Universum"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist die Prinzessin des Mushroom Kingdom?",
+  "antwort": [
+   "Prinzessin Peach"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie heißt das Staatsoberhaupt und die ranghöchste politische und religiöse Autorität im Iran?",
+  "antwort": [
+   "Office of the Supreme Leader of Iran"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchem Film waren Myrna Loy und William Powell die Hauptdarsteller?",
+  "antwort": [
+   "Der dünne Mann"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Film in dem MCU war der erste der keine Punkte Szene hat?",
+  "antwort": [
+   "Avengers: Endgame"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Präsident stellte sich 1992 seiner Wiederwahl?",
+  "antwort": [
+   "George H. W. Bush"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war der letzte ägyptische Pharao?",
+  "antwort": [
+   "Kleopatra VII."
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Pokemon Spiele spielen in Kalos und wurden 2013 veröffentlicht?",
+  "antwort": [
+   "Pokémon X und Y"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was war der Name von Bilbo Baggins Haus?",
+  "antwort": [
+   "Beutelsend"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wann ist das zweite Hunger Games Buch erschienen?",
+  "antwort": [
+   "2009"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war für die kürzeste Zeit Präsident der USA?",
+  "antwort": [
+   "William Henry Harrison"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Fluss fließt an New York City vorbei und ist auch mit dem Eriekanal verbunden?",
+  "antwort": [
+   "Hudson River"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher britische Monarch hatte die kürzeste Regentschaft?",
+  "antwort": [
+   "Jane Grey"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher der Herr der Ringe Filme hatte das größte Budget?",
+  "antwort": [
+   "Der Hobbit: Die Schlacht der Fünf Heere"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Für welchen Sims-Titel der Hauptserie gibt es die meisten Erweiterungen, Packs und Add-ons?",
+  "antwort": [
+   "Die Sims 4"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer hat die meisten Treffer in einer einzigen Saison?",
+  "antwort": [
+   "Ichirō Suzuki"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer hat weniger Saisonen in der NFL gespielt, Tom Brady oder Ben Roethlisberger?",
+  "antwort": [
+   "Ben Roethlisberger"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchem \"Final Fantasy\"-Spiel kommt Lightning als Hauptcharakter vor?",
+  "antwort": [
+   "Final Fantasy XIII"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Krieg dauerte länger, der Erste Weltkrieg oder der Krieg von 1812?",
+  "antwort": [
+   "Britisch-Amerikanischer Krieg"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Buch von Tom Clancy über Jack Ryan war das meistverkaufte Buch?",
+  "antwort": [
+   "Jagd auf Roter Oktober"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Der Autor von On the Road besuchte welche Ivy League Schule?",
+  "antwort": [
+   "Columbia University"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist älter, Chris Pratt oder Chris Evans?",
+  "antwort": [
+   "Chris Pratt"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer hat „Eine wie Alaska“ geschrieben?",
+  "antwort": [
+   "John Green"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches NFL Team gewann seinen einzigen Super Bowl im Jahre 1985?",
+  "antwort": [
+   "Chicago Bears"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist der jüngste Musiker, der in die Rock N' Roll Hall of Fame eingeführt wurde?",
+  "antwort": [
+   "Ilan Rubin"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher bekannte Sänger, der in den 60ern Mitglied einer Band war, die die englische Zahl fünf in ihrem Namen hatte?",
+  "antwort": [
+   "Michael Jackson"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was ist das meistverkaufte Xbox-Spiel?",
+  "antwort": [
+   "Halo 2"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer hat mehr Assists erzielt, David Beckham oder Ronaldinho?",
+  "antwort": [
+   "David Beckham"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist das jüngste aktuelle Mitglied von der Kammer?",
+  "antwort": [
+   "Madison Cawthorn"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher amerikanische Präsident des 19. Jaharhunderts war nie verheiratet?",
+  "antwort": [
+   "James Buchanan"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war Königin des UK und auch Mechanikerin im Zweiten Weltkrieg?",
+  "antwort": [
+   "Elisabeth II."
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie heißt die Haupstadt des Landes mit der größten Landfläche der Welt?",
+  "antwort": [
+   "Moskau"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Animal Crossing Spiel mit Timmy und Tommy wurde 2020 veröffentlicht?",
+  "antwort": [
+   "Animal Crossing: New Horizons"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist die älteste Person, die einen Super Bowl gewonnen hat?",
+  "antwort": [
+   "Tom Brady"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Profi-Basketballspieler war der kleinste in der Körpergröße und gewann auch einen NBA-Meistertitel?",
+  "antwort": [
+   "Red Klotz"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was war der erste Pixar-Film, der nicht in den 1990er-Jahren ins Kino kam?",
+  "antwort": [
+   "Die Monster AG"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher US-Präsident wurde zweimal wegen Amtsvergehen angeklagt, aber nicht des Amtes enthoben?",
+  "antwort": [
+   "Donald Trump"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wo befindet sich die große Sphinx?",
+  "antwort": [
+   "Gizeh"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Buch in der Dragonlance Serie ist am längsten",
+  "antwort": [
+   "Dragons of Summer Flame"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie alt ist der Herrscher von Nordkorea?",
+  "antwort": [
+   "37"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher der Premierminister der UdSSR lebte nicht in den 1960er Jahren?",
+  "antwort": [
+   "Josef Stalin"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Für wen Spielt Tom Brady aktuell?",
+  "antwort": [
+   "Tampa Bay Buccaneers"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche von Theodore Roosevelts Kindern hat er nicht mit seiner zweiten Frau?",
+  "antwort": [
+   "Alice Roosevelt Longworth"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Spiel der Throne-Figur tötete seine Geliebte und seinen eigenen Vater?",
+  "antwort": [
+   "Tyrion Lannister"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches ist das dritte Spiel der Dragon Age Serie?",
+  "antwort": [
+   "Dragon Age: Inquisition"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie hieß das erste Hip Hop Album von Drake?",
+  "antwort": [
+   "Thank Me Later"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Buch aus der Reihe \"Der neue Jedi-Orden\" wurde 1999 veröffentlicht?",
+  "antwort": [
+   "Vector Prime"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Für was steht der Name der koreanischen Boyband B.T.S.?",
+  "antwort": [
+   "BTS"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Animal Crossing-Spiel wurde 2020 veröffentlicht und ermöglicht es dir, auf die Insel anderer Leute zu fliegen?",
+  "antwort": [
+   "Animal Crossing: New Horizons"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchem Jahr wurde das erste Buch der Red Rising-Reihe veröffentlicht?",
+  "antwort": [
+   "2014"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Zelda-Spiel für den Nintendo Switch war ein Open-World-Videospiel?",
+  "antwort": [
+   "The Legend of Zelda: Breath of the Wild"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war der erste Musiker bei Guns N' Roses, der ersetzt wurde?",
+  "antwort": [
+   "Tracii Guns"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Land der Achse kapitulierte als erstes im Zweiten Weltkrieg?",
+  "antwort": [
+   "Italien"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Krieg war länger, der Irakkrieg oder der zweite Weltkrieg?",
+  "antwort": [
+   "Irak"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche der Rockbands The Strokes, Beyonce und Celine Dion haben 2021 keinen Grammy Award gewonnen?",
+  "antwort": [
+   "Céline Dion"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Für welches Team hat der Super Bowl XLII MVP gespielt?",
+  "antwort": [
+   "New York Giants"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Land hat eine größere Bevölkerung, die Vereinigten Staaten oder China?",
+  "antwort": [
+   "Volksrepublik China"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Star-Trek-Film hat die wenigsten Einnahmen erzielt?",
+  "antwort": [
+   "Star Trek: Nemesis"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher US-Staat ist der Union 1863 beigetreten und hat das Motto \"Mountaineers Are Always Free\"?",
+  "antwort": [
+   "West Virginia"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist der Sohn von Jack Torrance und hat in Shining übersinnliche Kräfte?",
+  "antwort": [
+   "Danny Torrance"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie viele Grammys hat Taylor Swift gewonnen?",
+  "antwort": [
+   "10"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war die jüngste Tochter des letzten Zaren von Russland?",
+  "antwort": [
+   "Anastasia Nikolajewna Romanowa"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchem Christopher-Nolan-Film von 2005 spielt Brad Pitt nicht mit?",
+  "antwort": [
+   "Batman Begins"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war der einzige US-Präsident, der nicht gewählt wurde?",
+  "antwort": [
+   "Gerald Ford"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche HBO-Serie basiert auf der Sookie-Stackhouse-Buchreihe?",
+  "antwort": [
+   "True Blood"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist der jüngste Drehbuchautor?",
+  "antwort": [
+   "Aaron Seltzer"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In wen ist Kill Bill verliebt?",
+  "antwort": [
+   "Beatrix Kiddo"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchem Final Fantasy-Spiel gibt es keinen Charakter namens Cid?",
+  "antwort": [
+   "Final Fantasy"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie viele Jahre nach Terminator erschien Terminator: Dark Fate?",
+  "antwort": [
+   "35"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist Premierminister des Irak?",
+  "antwort": [
+   "Nuri al-Maliki"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Film hatte das größere Budget, Terminator oder Speed?",
+  "antwort": [
+   "Terminator"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was ist das zweite Uncharted-Spiel?",
+  "antwort": [
+   "Uncharted 2: Among Thieves"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wann erhielt James „Cameron seinen ersten Oscar?",
+  "antwort": [
+   "1998"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Staat hat die älteste Gesetzgebungskammer in Afrika?",
+  "antwort": [
+   "Ägypten"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchem Jahr fand die erste Grammy-Preisverleihung statt?",
+  "antwort": [
+   "1959"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Harry Potter Figur fing im Jahre 1971 bei Hogwarts an und diente als Direktor von Slytherin House?",
+  "antwort": [
+   "Severus Snape"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie viele Fast and Furious Filme gibt es?",
+  "antwort": [
+   "10"
+  ],
+  "typ": "count",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Staat has mehr Einwohner, New York oder Chicago?",
+  "antwort": [
+   "New York"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wann war der letzte Ausbruch des Mount Rainier?",
+  "antwort": [
+   "1894"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Film wurde unter der Regie von Michael Bay und mit Nicholas Cage in der Hauptrolle gedreht?",
+  "antwort": [
+   "The Rock – Fels der Entscheidung"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Woher kommt die Schauspielerin, die Katniss in „Die Tribute von Panem” gespielt hat?",
+  "antwort": [
+   "Indian Hills"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war der zweite Präsident?",
+  "antwort": [
+   "John Adams"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Land nahm am Zweiten Weltkrieg teil und setzte auch Atomwaffen im Kampf ein?",
+  "antwort": [
+   "Vereinigte Staaten"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Tales-Spiele haben keine Cameo-Schlachten?",
+  "antwort": [
+   "Tales of Phantasia",
+   "Tales of Destiny"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher britischen Könige waren nie verheiratet?",
+  "antwort": [
+   "Wilhelm II.",
+   "Eduard V.",
+   "Eduard VI.",
+   "Eduard VIII."
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wann wurde das zweite Super Smash Bros- Spiel veröffentlicht?",
+  "antwort": [
+   "2001"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wem wird es zugeschrieben, der erste Spieler in der NBA zu sein, der sich öffentlich als Homosexueller geoutet hat?",
+  "antwort": [
+   "Jason Collins"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Land hat eine größere Fläche, Frankreich oder Spanien?",
+  "antwort": [
+   "Frankreich"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches ist das meistverkaufte Videospiel der Geschichte?",
+  "antwort": [
+   "Minecraft"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Stephen-King-Buch hat die niedrigste Seitenanzahl?",
+  "antwort": [
+   "Das Jahr des Werwolfs"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist der derzeitige Senator von New Jersey?",
+  "antwort": [
+   "Cory Booker"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie heißt der höchste Punkt in Oregon, der vor 220-170 Jahren das letzte Mal ausbrach?",
+  "antwort": [
+   "Mount Hood"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wann starb der Autor von Oliver Twist?",
+  "antwort": [
+   "1870"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches ist der kürzeste Song auf Michael Jacksons Album Thriller?",
+  "antwort": [
+   "The Girl Is Mine"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchem Jahr erscheint das zweite Buch der Divergent Reihe?",
+  "antwort": [
+   "2012"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war älter, als er Präsident wurde, John Quincy Adams oder James Monroe?",
+  "antwort": [
+   "James Monroe"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches NFL-Team ist das jüngste?",
+  "antwort": [
+   "Jacksonville Jaguars"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "War war Mark Twains bürgerlicher Vorname?",
+  "antwort": [
+   "Mark Twain"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Popstar hat für Ariana Grande, Miley Cyrus, Britney Spears und für Alice Cooper Songs geschrieben?",
+  "antwort": [
+   "Kesha"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Albany ist die Hauptstadt welchen Bundesstaates?",
+  "antwort": [
+   "New York"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Länder Europas waren an keinem der Weltkriege beteiligt?",
+  "antwort": [
+   "Spanien",
+   "Schweden",
+   "Schweiz"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Team hatte die meisten Super Bowl Auftritte?",
+  "antwort": [
+   "New England Patriots"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Videospiel wurde mehr als 60.000.000 Mal verkauft und von der PUBG Corporation entwickelt?",
+  "antwort": [
+   "PlayerUnknown's Battlegrounds"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Perca Jackson & the Olympians-Buch wurde nicht verfilmt?",
+  "antwort": [
+   "Percy Jackson – Der Fluch des Titanen",
+   "Percy Jackson – Die Schlacht um das Labyrinth",
+   "Percy Jackson – Die letzte Göttin"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war der Moderator der Grammys im Jahre 2020?",
+  "antwort": [
+   "Alicia Keys"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Harry-Potter-Bücher haben nicht mindestens 100.000 Wörter?",
+  "antwort": [
+   "Harry Potter und der Stein der Weisen",
+   "Harry Potter und die Kammer des Schreckens"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie heißt das letzte Star Ocean Spiel?",
+  "antwort": [
+   "Star Ocean: Anamnesis"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher musikalischen Gruppe gehörte Joey Fatone an?",
+  "antwort": [
+   "*NSYNC"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wessen Debütalbum ist zuerst erschienen, Britney Spears' oder Christina Aguileras?",
+  "antwort": [
+   "Britney Spears"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie viele Länder gibt es in Europa?",
+  "antwort": [
+   "44"
+  ],
+  "typ": "count",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war die Ehefrau des 33. US-Präsidenten?",
+  "antwort": [
+   "Bess Truman"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Buch der Serie \"Hexer\" wurde im Jahre 1992 veröffentlicht?",
+  "antwort": [
+   "Das Schwert der Vorsehung"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie viele Kolonien gab es ursprünglich, bevor die Vereinigten Staaten gegründet wurden?",
+  "antwort": [
+   "13"
+  ],
+  "typ": "count",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Call-of-Duty-Spiel hat keinen Single-Player-Mission-Modus?",
+  "antwort": [
+   "Call of Duty: Black Ops 4"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was fand Bilbo Beutlin?",
+  "antwort": [
+   "Ring"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war der letzte Herrscher des ptolemäischen Königreiches von Ägypten?",
+  "antwort": [
+   "Kleopatra VII."
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer hat die meisten Rushing Yards der NFL in einer einzigen Saison?",
+  "antwort": [
+   "Eric Dickerson"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist die älteste Figur in der Bibel?",
+  "antwort": [
+   "Methusalem"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches NFL-Team ist in Kalifornien beheimatet und hatte früher Joe Montana?",
+  "antwort": [
+   "San Francisco 49ers"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wo wurde der Autor von der Herr Der Ringe geboren?",
+  "antwort": [
+   "Bloemfontein"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war der dritte Präsident der Vereinigten Staaten?",
+  "antwort": [
+   "Thomas Jefferson"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wann hat sich die AFL mit der NBA zusammengeschlossen?",
+  "antwort": [
+   "1970"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Autor hat die meisten Caldecott-Auszeichnungen erhalten?",
+  "antwort": [
+   "Marcia Brown"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie alt ist der aktuelle Manager der New York Mets?",
+  "antwort": [
+   "40"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchem Jahr wurde der erste Stanley Cup gewonnen?",
+  "antwort": [
+   "1918"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was ist der zweithöchste Berg in Nordamerika?",
+  "antwort": [
+   "Mount Logan"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher US-Präsident ist am 30. Oktober 1735 geboren?",
+  "antwort": [
+   "John Adams"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie alt ist der aktuelle Trainer von Manchester United?",
+  "antwort": [
+   "48"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Zu welcher Partei gehörte der US-Präsident, der am 11.September im Amt war?",
+  "antwort": [
+   "Republikanische Partei"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches ist die höchste Anzahl Oscar die jemals von einem Film gewonnen wurden?",
+  "antwort": [
+   "11"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wo wurde der Trainer von Kentucky Basketball geboren?",
+  "antwort": [
+   "Moon Township"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher bekannte Smoking tragende und Martini trinkende Sänger und Mitglied von Rat Pack hat nie einen Grammy gewonnen?",
+  "antwort": [
+   "Dean Martin"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie alt ist Kim Jong Un?",
+  "antwort": [
+   "37"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist der Protagonist im siebten „Final Fantasy“-Spiel?",
+  "antwort": [
+   "Cloud Strife"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Mitglied von Aerosmith spielt in „Two and a Half Men“ mit?",
+  "antwort": [
+   "Steven Tyler"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Land hat eine größere Bevölkerungszahl, Russland oder Indien?",
+  "antwort": [
+   "Indien"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher war der erste ehemalige General, der Präsident wurde und gleichzeitig ein Veteran des Zweiten Weltkriegs war?",
+  "antwort": [
+   "Dwight D. Eisenhower"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was ist das zweitärmste Land in Europa?",
+  "antwort": [
+   "Ukraine"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher aktve Spieler hat die meisten Rushing Touchdowns erzielt?",
+  "antwort": [
+   "Adrian Peterson"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie alt war der Leadsänger der Beatles als er starb?",
+  "antwort": [
+   "40"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war Urenkelin von Martha Washington und Ehefrau von Robert E. Lee?",
+  "antwort": [
+   "Mary Anna Randolph Custis Lee"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher berühmte Amerikaner sagte: \"Gebt mir Freiheit oder gebt mir den Tod!\"?",
+  "antwort": [
+   "Patrick Henry"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Spiel der Grand Theft Auto Serie hat sich am meisten verkauft?",
+  "antwort": [
+   "Grand Theft Auto V"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war der 22. Präsident?",
+  "antwort": [
+   "Grover Cleveland"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist älter, Keith Richards oder Mick Jagger?",
+  "antwort": [
+   "Mick Jagger"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Krieg war länger, der Unabhängigkeitskrieg oder der Bürgerkrieg?",
+  "antwort": [
+   "Amerikanischer Unabhängigkeitskrieg"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie hieß der erste Film von Studio Ghibli?",
+  "antwort": [
+   "Das Schloss im Himmel"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Mitglieder von N.W.A. sind inzwischen verstorben?",
+  "antwort": [
+   "Eazy-E"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist die älteste Schauspielerin, die einen Oscar als beste Schauspielerin gewonnen hat?",
+  "antwort": [
+   "Jessica Tandy"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchen Jahren führte Erik Spoelstra die Miami Heat zu zwei NBA-Meisterschaften?",
+  "antwort": [
+   "2012"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer wurde 1980 zum Präsidenten gewählt und war auch ein Hollywoodstar?",
+  "antwort": [
+   "Ronald Reagan"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches war das letzte Werk von J.K. Tolkin?",
+  "antwort": [
+   "Von Tuor und dem Fall von Gondolin"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche irische Band hat die meisten Grammy Awards gewonnen?",
+  "antwort": [
+   "U2"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchem Jahr endete der Vietnamkrieg?",
+  "antwort": [
+   "1975"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie ist der Untertitel für das dritte Xenosaga-Spiel?",
+  "antwort": [
+   "Xenosaga Episode III"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie viele Teams gibt es in der NBA?",
+  "antwort": [
+   "30"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist der Verfasser der \"Fifty Shades of Grey\"-Bücher?",
+  "antwort": [
+   "E. L. James"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchem Staat hat Nixon im Jahr 1972 McGovern nicht geschlagen?",
+  "antwort": [
+   "Massachusetts"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchem Jahr erfolgte das Buch zum Film des ersten Star Wars-Vorläufers?",
+  "antwort": [
+   "1999"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Cousin des US- Präsident der in dem Spanisch-Amerikanischen Krieg kämpfte, hatte die längste Amtszeit?",
+  "antwort": [
+   "Franklin Delano Roosevelt"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wann ist das zweite Spiel in Blizzards Diablo-Serie erschienen?",
+  "antwort": [
+   "2000"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Figur aus Die Tribute von Panem ist ein Trainer und arbeitete mit Katniss Everdeen?",
+  "antwort": [
+   "Haymitch Abernathy"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie alt ist das älteste Mitglied von Backstreet Boys?",
+  "antwort": [
+   "49"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche asiatische Länder gehören nicht zum Festland?",
+  "antwort": [
+   "Philippinen",
+   "Sri Lanka",
+   "Malediven",
+   "Japan",
+   "Singapur",
+   "Indonesien",
+   "Osttimor",
+   "Republik China",
+   "Brunei"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie viele Bücher hat Kurt Vonnegut geschrieben?",
+  "antwort": [
+   "12"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Film wurde auf den meisten Kontinenten gedreht?",
+  "antwort": [
+   "Samsara"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche US-Präsidenten gewannen die Wahl, ohne die meisten Wählerstimmen bekommen zu haben?",
+  "antwort": [
+   "John Quincy Adams",
+   "Rutherford B. Hayes",
+   "Benjamin Harrison",
+   "George W. Bush",
+   "Donald Trump"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie heißt der Bruder von Mario?",
+  "antwort": [
+   "Luigi"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie hieß Michael Jacksons erstes Album?",
+  "antwort": [
+   "Got to Be There"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie hoch ist die Einwohnerzahl des größten Landes in Europa?",
+  "antwort": [
+   "145912025"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was war Biggy Smalls erster Solosong?",
+  "antwort": [
+   "Party and Bullshit"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie heißt Marios Freundin?",
+  "antwort": [
+   "Prinzessin Peach"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Album haben die Beatles nicht zusammen aufgenommen?",
+  "antwort": [
+   "Abbey Road"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer konnte im Jahr 2018 den Senatsitz für Michigan für sich entscheiden?",
+  "antwort": [
+   "Debbie Stabenow"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war die erste Frau, die im Kongress gewählt wurde?",
+  "antwort": [
+   "Jeannette Rankin"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Team ist im Barclays Center zu Hause und gehört Joe Tsai?",
+  "antwort": [
+   "Brooklyn Nets"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Reihe hat mehr Spiele, Call of Duty oder The Sims?",
+  "antwort": [
+   "Call of Duty"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was kam zuerst heraus: Der Hobbit oder Der Herr der Ringe?",
+  "antwort": [
+   "Der Hobbit"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher berühmte Martin-Scorsese-Film von 1976 gewann keinen Oscar?",
+  "antwort": [
+   "Taxi Driver"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wann wurde das Lincoln-Denkmal errichtet?",
+  "antwort": [
+   "8186"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie viele Einwohner hat die Stadt, in der sich das National Civil Rights Museum befindet?",
+  "antwort": [
+   "633"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Für welche Konsole wurde Street of Rage veröffentlicht?",
+  "antwort": [
+   "Sega Mega Drive"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher persische König ist 480 v. Chr. in Griechenland einmarschiert, hat es aber nicht erobert?",
+  "antwort": [
+   "Xerxes I."
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist die Ehefrau des 46. Präsidenten der Vereinigten Staaten?",
+  "antwort": [
+   "Jill Biden"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Baseballspieler hat die meisten Home - Run - Derbys gewonnen?",
+  "antwort": [
+   "Ken Griffey junior"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Partei gehörte der US-Präsident während des Mexikanisch-Amerikanischen Krieges an?",
+  "antwort": [
+   "Demokratische Partei"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wo ist die Waldesdichte gößer, in Chile oder Mongolien?",
+  "antwort": [
+   "Chile"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wo wurde der Sänger von Led Zeppelin geboren?",
+  "antwort": [
+   "West Bromwich"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer kandidierte 2012 als Präsident und ist auf Hawaii geboren?",
+  "antwort": [
+   "Barack Obama"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Partei ist die größte in China?",
+  "antwort": [
+   "Kommunistische Partei Chinas"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Von welchem Basketballteam ist Kobe Bryant zurückgetreten?",
+  "antwort": [
+   "Los Angeles Lakers"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war der Vater des 43. US-Präsidenten?",
+  "antwort": [
+   "George H. W. Bush"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher war der Codenamen für den Solid-Snakes-Bruder in Metal Gear Solid?",
+  "antwort": [
+   "Liquid Snake"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Staat erhält die meisten Wahlmännerstimmen?",
+  "antwort": [
+   "Kalifornien"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher NBA-Spieler spielte für die Rockets und wurde in Bellflower, Kalifornien, geboren?",
+  "antwort": [
+   "James Harden"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Für welchen Grammy Award war Bob Dylans „Down in the Flood“ nominiert, hat aber nicht gewonnen?",
+  "antwort": [
+   "Grammy Award for Best Male Rock Vocal Performance"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie heißt das dritte \"Double Dragon\"-Spiel für das NES?",
+  "antwort": [
+   "Double Dragon III: The Sacred Stones"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wo wurde Tyrion Lannister geboren?",
+  "antwort": [
+   "Casterly Rock"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer hat mehr Auszeichnungen gewonnen, Britney Spears oder Beyonce?",
+  "antwort": [
+   "Beyoncé"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches ist die kürzeste Schlacht der Geschichte?",
+  "antwort": [
+   "Britisch-Sansibarischer Krieg"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war der erste US-Präsident, der als amerikanischer Bürger geboren wurde?",
+  "antwort": [
+   "Martin Van Buren"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher amerikanischer Präsident hatte die längste Amtszeit?",
+  "antwort": [
+   "Franklin Delano Roosevelt"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie alt war Lebron James, als er unter Vertrag genommen wurde?",
+  "antwort": [
+   "18"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist der am höchsten bezahlte NBA Coach?",
+  "antwort": [
+   "Gregg Popovich"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie heißt das fünfte Studioalbum von Rolling Stones?",
+  "antwort": [
+   "Out of Our Heads"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher der fünf höchsten Berge liegt nicht im Himalaya?",
+  "antwort": [
+   "K2"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Für welche Nintendo-Konsole wurde kein Mario Kart veröffentlicht?",
+  "antwort": [
+   "Nintendo Entertainment System"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie alt ist die Hauptsängerin von „No Doubt”?",
+  "antwort": [
+   "52"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist in Laurel, Mississippi geboren und ist ein amtierender Senator von Tennessee?",
+  "antwort": [
+   "Marsha Blackburn"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Buch ist besser auf der „20th Century's Greatest Hits”-Liste bewertet, dass eines der 100 englischsprachige Fiction-Bücher ist: „Fahles Feuer” oder „Ulysses”?",
+  "antwort": [
+   "Fahles Feuer"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher der Eis und Feuer Buch ist am längsten?",
+  "antwort": [
+   "Ein Tanz mit Drachen"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Generation der Pokemon Spiele erlaubte es dir nicht Pokemon zu vermehren?",
+  "antwort": [
+   "first generation of Pokémon"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer führte Regie im klassischen Horrorfilm Halloween in 1978?",
+  "antwort": [
+   "John Carpenter"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Gouverneur von Pennsylvania war auch der erste Minister für Innere Sicherheit?",
+  "antwort": [
+   "Tom Ridge"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche NBA-Mannschaft hat mehr Meisterschaften gewonnen, die L.A. Lakers oder die Boston Celtics?",
+  "antwort": [
+   "Boston Celtics"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer kandierte 2016 als Präsident und war Inhaber eines gewinnorientierten Bildungsunternehmens, das scheiterte?",
+  "antwort": [
+   "Donald Trump"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer hat in der Geschichte der NBA die meisten Spiele absolviert?",
+  "antwort": [
+   "Robert Parish"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Buch von Leo Tolstoi ist das längste?",
+  "antwort": [
+   "Krieg und Frieden"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was war der letzte Film von Alan Rickman, bevor er gestorben sit?",
+  "antwort": [
+   "Alice im Wunderland – Hinter den Spiegeln"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Für welchen Grammy Award war John Mellencamp's \"Your Life Is Now\" nominiert, hat ihn aber nicht gewonnen?",
+  "antwort": [
+   "Grammy Award for Best Male Rock Vocal Performance"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer hat mehr Saison-MVP-Titel in der NBA gewonnen, LeBron James oder Steph Curry?",
+  "antwort": [
+   "LeBron James"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war der erste Baseman bei den World Series Champions von 1927?",
+  "antwort": [
+   "Lou Gehrig"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wann war der letzte Ausbruch von Mount St. Helens?",
+  "antwort": [
+   "1980"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Roman von Stephen King hat mehr Seiten, Es oder Friedhof der Kuscheltiere?",
+  "antwort": [
+   "Es"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Mitglied von The Rolling Stones erschien in dem Film „Performance”?",
+  "antwort": [
+   "Mick Jagger"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie viele Spiele haben die Cowboys im Jahr 2015 nicht gewonnen?",
+  "antwort": [
+   "12"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche antike Zivilisation machte als erste von der Demokratie Gebrauch?",
+  "antwort": [
+   "Antikes Griechenland"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wie viele Oscars hat „Die Rückkehr des Königs” gewonnen?",
+  "antwort": [
+   "11"
+  ],
+  "typ": "count",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer war Nachbar von Harriet Beecher Stowe, der Authorin von Onkel Toms Hütte?",
+  "antwort": [
+   "Mark Twain"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was war die dritte Erweiterung für Warcraft, in der Arthas der Hauptbösewicht war?",
+  "antwort": [
+   "World of Warcraft: Wrath of the Lich King"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche ist die zweit größte Insel der Welt?",
+  "antwort": [
+   "Neuguinea"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer führte Regie bei dem Film, der ebenfalls auf dem ersten Star Wars-Buch basiert?",
+  "antwort": [
+   "George Lucas"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchem Jahr erschien das fünfte Spiel der Call-of-Duty-Reihe?",
+  "antwort": [
+   "2008"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was war der Name von Drakes erstem Album?",
+  "antwort": [
+   "Thank Me Later"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Bei welcher Filmpremiere wurden mehr Karten verkauft: Tombstone oder Der mit dem Wolf tanzt?",
+  "antwort": [
+   "Der mit dem Wolf tanzt"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Batman-Film hatte den größten Kinoerfolg?",
+  "antwort": [
+   "The Dark Knight Rises"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Spieler wurden 2003 gedraftet und spielen immer noch in der NBA?",
+  "antwort": [
+   "LeBron James",
+   "Carmelo Anthony"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Präsident hat die höchste Anzahl an Wahlmännerstimmen in der Geschichte erhalten?",
+  "antwort": [
+   "Ronald Reagan"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchen NBA-Finals haben die Mavericks gespielt, aber nicht gewonnen?",
+  "antwort": [
+   "NBA-Finals 2006"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer hat mehr Kinder, Jim Carrey oder Adam Sandler?",
+  "antwort": [
+   "Adam Sandler"
+  ],
+  "typ": "comparative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Film entstand unter der Regie von Martin Scorsese und zeigt Leonardo DiCaprio in der Hauptrolle?",
+  "antwort": [
+   "Aviator"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welche Spiel der Throne-Figur ist ein Knecht und war originell Wylis genannt?",
+  "antwort": [
+   "Hodor"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist der Politiker, der 2020 als Präsident kandidiert hat und auch ein früherer Harvard-Professor ist?",
+  "antwort": [
+   "Elizabeth Warren"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher Staat hat die meisten amerikanischen Präsidenten hervorgebracht?",
+  "antwort": [
+   "Virginia"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist die jüngste weibliche Autor?",
+  "antwort": [
+   "Dorothy Straight"
+  ],
+  "typ": "superlative",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Was war der frühere Beruf der Autorin der Twilight Saga?",
+  "antwort": [
+   "Rezeptionist"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "In welchem Jahr wird das Spiel Portal abgehalten?",
+  "antwort": [
+   "2021"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist das Gras Starter Pokemon von Pokemon Diamond?",
+  "antwort": [
+   "Chelast"
+  ],
+  "typ": "multihop",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wer ist der Protagonist der Kingdom Hearts-Serie?",
+  "antwort": [
+   "Sora"
+  ],
+  "typ": "generic",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welches Spiel wurde von Capcom entwickelt und spielt Metal Man?",
+  "antwort": [
+   "Mega Man 2"
+  ],
+  "typ": "intersection",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Welcher republikanische Präsidentschaftskandidat seit 1980 hat es nicht geschafft, in North Carolina zu gewinnen?",
+  "antwort": [
+   "John McCain"
+  ],
+  "typ": "difference",
+  "quelle": "mintaka"
+ },
+ {
+  "frage": "Wann hat Lada Gaga ihr drittes Album veröffentlicht?",
+  "antwort": [
+   "2013"
+  ],
+  "typ": "ordinal",
+  "quelle": "mintaka"
+ }
+]

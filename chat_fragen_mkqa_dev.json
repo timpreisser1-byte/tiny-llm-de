@@ -1,0 +1,4503 @@
+[
+ {
+  "frage": "wer singt das country lied how do you like me now",
+  "antwort": [
+   "Toby Keith"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer hat von Ronaldo und Messi mehr Tore geschossen?",
+  "antwort": [
+   "Cristiano Ronaldo",
+   "Cristiano Ronaldo dos Santos Aveiro",
+   "CR7"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann wurde Elektrizität zum ersten mal Kommerziell genutzt",
+  "antwort": [
+   "1870"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer singt \" all the chapel bells are ringing \" ?",
+  "antwort": [
+   "The Browns"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer spricht die stimme von buzz in toy story",
+  "antwort": [
+   "Tim Allen",
+   "Timothy Allen Dick"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann wurde die 5er BMW Serie das letzte mal umgestaltet",
+  "antwort": [
+   "2016"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Was ist die höchste Achterbahn in Cedar Point ?",
+  "antwort": [
+   "Top Thrill Dragster"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Dinosaurier, der aussieht wie T Rex mit Stacheln",
+  "antwort": [
+   "Carnotaurus"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wie viele staffeln von big brother gibt es",
+  "antwort": [
+   "21"
+  ],
+  "typ": "number",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer sind die Ritter der Tafelrunde",
+  "antwort": [
+   "Lancelot",
+   "Lanzelot",
+   "Lancelot du Lac"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann wurde die erste 12-saitige Gitarre gebaut",
+  "antwort": [
+   "1961"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer spielte Charlene Darling in der Andy Griffith Show",
+  "antwort": [
+   "Maggie Peterson"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer  singt, jemanden den ich kannte",
+  "antwort": [
+   "Gotye",
+   "Wouter De Backer"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer spielt camilla vargas in queen of the south",
+  "antwort": [
+   "Verónica Falcón"
+  ],
+  "typ": "short_phrase",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer singt i'm easy like sunday morning",
+  "antwort": [
+   "The Commodores"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wo war die Leichtathletik WM 2017",
+  "antwort": [
+   "England"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Welche Bundesstaaten haben Eastern Standard Time",
+  "antwort": [
+   "Georgia"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer singt das Lied \" owner of a lonely heart \" ?",
+  "antwort": [
+   "Yes"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wann haben Tabakfirmen angefangen Warnhinweise auf die Packungen zu drucken",
+  "antwort": [
+   "1965"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Buchstabieren Sie den vollständigen Namen der Kombination",
+  "antwort": [
+   "Kaliumiodid",
+   "Kaliumjodid",
+   "Iodtablette",
+   "Jodtablette"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Er kämpfte 1974 um den Weltmeistertitel im Schwergewicht, der als das Rumpeln im Dschungel bekannt ist",
+  "antwort": [
+   "Muhammad Ali",
+   "Cassius Clay",
+   "Cassius Marcellus Clay Jr.",
+   "The Greatest"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer spielt veronica sawyer in heiden das musical",
+  "antwort": [
+   "Annaleigh Ashford"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann kamen die ursprünglichen Star Wars heraus ?",
+  "antwort": [
+   "1977"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann hörten sie auf den 2-Dollar-Schein zu machen",
+  "antwort": [
+   "1976"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie viele Kapitel hat das Buch Johannes in der Bibel",
+  "antwort": [
+   "21"
+  ],
+  "typ": "number_with_unit",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer sagte i'll gladly pay you tuesday for a hamburger today",
+  "antwort": [
+   "J. Wellington Wimpy"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wan wurden cain und lilys zwillinge geboren",
+  "antwort": [
+   "2010"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "als Star Trek zum ersten Mal in Großbritannien auftrat",
+  "antwort": [
+   "1969"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer spielt den Jungen in einem Hundezweck",
+  "antwort": [
+   "bryce gheisar"
+  ],
+  "typ": "short_phrase",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer sind die Charaktere in Five Nights at Freddy’s",
+  "antwort": [
+   "fuchsartig"
+  ],
+  "typ": "short_phrase",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer spielte den jungen Darth Vader in Die Rückkehr der Jedi-Ritter?",
+  "antwort": [
+   "Hayden Christensen"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer erzielte das schnellste tor der fifa weltmeisterschaft",
+  "antwort": [
+   "Clint Dempsey"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Was ist das Motto der US-Armee",
+  "antwort": [
+   "Das werden wir verteidigen"
+  ],
+  "typ": "short_phrase",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer ist die weibliche Sängerin von All That Remains",
+  "antwort": [
+   "Jeanne Sagan"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer gewann die 12. Staffel von Worst Cooks – Endlich schmeckt’s",
+  "antwort": [
+   "Hazell McKenzie"
+  ],
+  "typ": "short_phrase",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Welcher ist der erste Film von \"Star Wars\"?",
+  "antwort": [
+   "Krieg der Sterne",
+   "Star Wars",
+   "Star Wars: Episode IV – A New Hope",
+   "Star Wars – Episode IV: Eine neue Hoffnung"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann waren die Raiders zum letzen mal im Super Bowl",
+  "antwort": [
+   "1984"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer produziert den Dieselmotor des GMC Terrain",
+  "antwort": [
+   "General Motors",
+   "General Motors Corporation",
+   "General-Motors",
+   "GM"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Was ist der reichste Staat in den USA",
+  "antwort": [
+   "Maryland"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Was ist das größte Unternehmen in den USA?",
+  "antwort": [
+   "Walmart",
+   "Wal-Mart Stores Inc.",
+   "Wal-Mart Stores",
+   "Wal Mart",
+   "Wal-Mart"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wieviele Länder hat der Kontinent Afrika?",
+  "antwort": [
+   "54"
+  ],
+  "typ": "number",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann findet die Rugby-Weltmeisterschaft 2023 statt?",
+  "antwort": [
+   "2023"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer singt if loving you is wrong i don't want to be right",
+  "antwort": [
+   "Luther Ingram"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie alt ist Willy in Tod eines Handlungsreisenden",
+  "antwort": [
+   "63"
+  ],
+  "typ": "number_with_unit",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann haben die Cowboys das letzte Mal ein Erntedankspiel gewonnen",
+  "antwort": [
+   "2018"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "was ist das beliebteste essen in kanada",
+  "antwort": [
+   "Poutine"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann findet der Fifa Weltcup in Australien statt?",
+  "antwort": [
+   "2022"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "in welchem Artikel steht, dass der Supreme Court die Macht hat, seine eigene Entscheidung zu überprüfen",
+  "antwort": [
+   "Artikel 137"
+  ],
+  "typ": "short_phrase",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer singt when can i see you again",
+  "antwort": [
+   "Owl City",
+   "Adam Young",
+   "Sky Sailing"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann findet das major league baseball all-star game statt",
+  "antwort": [
+   "2019"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer sang i say a little prayer for you",
+  "antwort": [
+   "Dionne Warwick",
+   "Marie Dionne Warrick"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer ist der Autor von Romeo und Julia",
+  "antwort": [
+   "William Shakespeare",
+   "William Shakespaer"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wann wurde das WWI Memorial erbaut",
+  "antwort": [
+   "1981"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wo wurden die \"wichtes of eastwick\" gefilmt",
+  "antwort": [
+   "Massachusetts"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie weit ist mckinney texas von denton texas",
+  "antwort": [
+   "31.5",
+   "31,5",
+   "31"
+  ],
+  "typ": "number_with_unit",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Welche Städte gibt es in Prince George County MD?",
+  "antwort": [
+   "Beltsville"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wo haben sie Mission: Impossible – Rogue Nation gefilmt?",
+  "antwort": [
+   "Marokko"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer ist die Schauspielerin die Victoria in Mike und Molly spielt",
+  "antwort": [
+   "Katy Mixon",
+   "Katy Elizabeth Mixon"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wie weit ist san diego von tijuana mexico entfernt",
+  "antwort": [
+   "31.9",
+   "31,9",
+   "31"
+  ],
+  "typ": "number_with_unit",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann wurde das Lied 99 Problems veröffentlicht",
+  "antwort": [
+   "2003"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann gewannen die Yankees zuletzt eine World Series",
+  "antwort": [
+   "2009"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer singt 'high on the mountain of love'?",
+  "antwort": [
+   "Johnny Rivers"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer spielt die Rolle von Kanishk in Porus",
+  "antwort": [
+   "Savi Thakur"
+  ],
+  "typ": "short_phrase",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Was ist der höchste Mindestlohn in den Vereinigten Staaten",
+  "antwort": [
+   "13.25",
+   "13,25",
+   "13"
+  ],
+  "typ": "number_with_unit",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer ist hauptdarsteller in Der Prinz von Bel-Air",
+  "antwort": [
+   "Tatyana Ali",
+   "Tatyana M. Ali",
+   "Tatyana Marisol Ali"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wir glauben immer, was wir an latein glauben wollen",
+  "antwort": [
+   "Wir glauben - was wir glauben wollen."
+  ],
+  "typ": "short_phrase",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer ist der Captain der bangladeschischen Cricket-Nationalmannschaft",
+  "antwort": [
+   "Shakib Al Hasan"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wie weit ist decatur alabama von huntsville alabama entfernt",
+  "antwort": [
+   "25.8",
+   "25,8",
+   "25"
+  ],
+  "typ": "number_with_unit",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wo kann ich die Unabhängigkeitserklärung der Vereinigten Staaten sehen",
+  "antwort": [
+   "National Archives Museum"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann werden die us open im Tennis gespielt",
+  "antwort": [
+   "New York",
+   "Empire State",
+   "NY",
+   "New York Staat",
+   "New York State",
+   "NYS"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer hat den letztjährigen FA Cup gewonnen",
+  "antwort": [
+   "Manchester City",
+   "Manchester City Football Club",
+   "The Citizens"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "was war der höchste Schlagdurchschnitt in der National League",
+  "antwort": [
+   "Ty Cobb"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer gewann die meisten Medaillen an den Olympischen Spielen im Jahr 2016",
+  "antwort": [
+   "Vereinigte Staaten",
+   "USA",
+   "Amerika",
+   "U.S.A.",
+   "US",
+   "U.S.",
+   "America",
+   "United States of America",
+   "United States",
+   "die Staaten",
+   "Vereinigte Staaten von Amerika",
+   "U. S. A.",
+   "U. S.",
+   "VS",
+   "V.S.",
+   "V. S.",
+   "VSA",
+   "V.S.A.",
+   "V. S. A.",
+   "die Staaten von Amerika"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer ist die hauptfigur in Catch-22",
+  "antwort": [
+   "Yossarian"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Welche einzigartige Gerichte gibt es in Japan?",
+  "antwort": [
+   "Sashimi"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie viele Episoden hat Folge 2 von 'Attack on Titan'",
+  "antwort": [
+   "12"
+  ],
+  "typ": "number",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Welcher griechische Arzt etablierte den Ethikkodex",
+  "antwort": [
+   "Hippokrates von Kos"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wo werden die olympischen spiele abgehalten im 2024",
+  "antwort": [
+   "Frankreich",
+   "Französische Republik",
+   "Republik Frankreich",
+   "fr"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer den König von Hannover in Victoria spielt",
+  "antwort": [
+   "Peter Firth"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer ist der quarterback der arizona cardinals",
+  "antwort": [
+   "Brett Hundley"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer hat \"Ooh Child (Things are Gonna Get Easier)\" gesungen?",
+  "antwort": [
+   "The Five Stairsteps",
+   "Five Stairsteps"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer erzielte in der National Football League die erste Two-Point Conversion im Jahr 2015",
+  "antwort": [
+   "Stephone Anthony"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie hoch ist der Steuerfreibetrag in Kanada",
+  "antwort": [
+   "12069"
+  ],
+  "typ": "number_with_unit",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wann traten die Vereinigten Staaten in den zweiten Weltkrieg ein",
+  "antwort": [
+   "1941"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Welches MLB Team hat die meisten Siege in einer Saison",
+  "antwort": [
+   "Chicago Cubs"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer ist der weltbeste torwart im fußball",
+  "antwort": [
+   "Keylor Navas",
+   "Keylor Antonio Navas Gamboa"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer spricht alvin in alvin und die chipmunks",
+  "antwort": [
+   "Justin Long",
+   "Justin Jake Long"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Woher stammt der Nachname Mullins",
+  "antwort": [
+   "Irland"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wo wurde Mike and Dave Need Wedding Dates verfilmt",
+  "antwort": [
+   "Vereinigte Staaten",
+   "USA",
+   "Amerika",
+   "U.S.A.",
+   "US",
+   "U.S.",
+   "America",
+   "United States of America",
+   "United States",
+   "die Staaten",
+   "Vereinigte Staaten von Amerika",
+   "U. S. A.",
+   "U. S.",
+   "VS",
+   "V.S.",
+   "V. S.",
+   "VSA",
+   "V.S.A.",
+   "V. S. A.",
+   "die Staaten von Amerika"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wem wurde das Ohr in der Bibel abgeschnitten",
+  "antwort": [
+   "Simon Petrus",
+   "Apostel Petrus",
+   "Heiliger Peter",
+   "Petrus",
+   "Heiliger Petrus",
+   "Hl. Peter",
+   "Petritag",
+   "Simon Barjona",
+   "Kephas",
+   "Hl. Petrus",
+   "Papst Petrus"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer spielte die mutter in dieser 70er show",
+  "antwort": [
+   "Debra Jo Rupp"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann kam das erste Spyro-Spiel heraus?",
+  "antwort": [
+   "1998"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Welche Flagge hat grün-weiss-rote Streifen",
+  "antwort": [
+   "Italien",
+   "Italienische Republik"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "was ist die aktuelle bevölkerungszahl von der stadt los angeles",
+  "antwort": [
+   "4000000"
+  ],
+  "typ": "number",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie nennt man Organismen, die hohen Salzkonzentrationen, hohen Temperaturen und hohen Drücken widerstehen können.",
+  "antwort": [
+   "Extremophilie",
+   "Extremophil"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Woher kommt der Charakter in Black Panther?",
+  "antwort": [
+   "die fiktive afrikanische Nation von Wakanda"
+  ],
+  "typ": "short_phrase",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer sang das lied when a man loves a woman",
+  "antwort": [
+   "Percy Sledge"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann hat Frankreich uns die Freiheitsstatue geschenkt",
+  "antwort": [
+   "1881"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Welche Art von Wirtschaftssystem hat Nordkorea?",
+  "antwort": [
+   "Planwirtschaft"
+  ],
+  "typ": "short_phrase",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie viele Folgen gibt es in der zweiten Staffel von 'Stranger Things'",
+  "antwort": [
+   "25"
+  ],
+  "typ": "number",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wo ist der platz jenseits der kiefern gesetzt",
+  "antwort": [
+   "Schenectady"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer hat das Lied the good the bad and the ugly geschrieben",
+  "antwort": [
+   "Ennio Morricone",
+   "Dan Savio",
+   "Leo Nichols"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Fiktive Figuren mit Sternen auf dem Walk of Fame",
+  "antwort": [
+   "Micky Maus",
+   "Mickey Mouse",
+   "Mickymaus",
+   "Mickey Maus",
+   "Micky-Mouse",
+   "Micky Mouse"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer ist der Frontsänger von 'Black eyed Peas'",
+  "antwort": [
+   "Fergie",
+   "Stacy Ferguson",
+   "Stacy Ann Ferguson",
+   "Fergie Duhamel"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer ist der basketballtrainer der frauen bei notre dame",
+  "antwort": [
+   "Muffet McGraw"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer spielte harry potter in den harry potter filmen",
+  "antwort": [
+   "Daniel Radcliffe",
+   "Daniel Jacob Radcliffe",
+   "Dan Radcliffe"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann haben die Boston Bruins zum letzten Mal den Pokal gewonnen",
+  "antwort": [
+   "2011"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer trat beim super bowl im letzten jahr auf",
+  "antwort": [
+   "Justin Timberlake",
+   "Justin Randall Timberlake"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie viele Tore hat Suarez in der letzten Saison geschossen?",
+  "antwort": [
+   "25"
+  ],
+  "typ": "number",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer singt das Lied 'You Really Got a Hold on Me'?",
+  "antwort": [
+   "The Beatles",
+   "Die Beatles",
+   "Pilzköpfe"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wann öffnete die erste indische residential school in kanada",
+  "antwort": [
+   "1828"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer hat den höchsten Batting Average in the major leagues",
+  "antwort": [
+   "Ty Cobb"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer spielt Sansa Stark in Game of Thrones?",
+  "antwort": [
+   "Sophie Turner"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wie heißt der letzte star wars film",
+  "antwort": [
+   "Star Wars: Der Aufstieg Skywalkers",
+   "Star Wars: The Rise of Skywalker",
+   "Star Wars: Episode IX"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer hat Eric gespielt in Ganz große Klasse",
+  "antwort": [
+   "Brian Robbins"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer entdeckte am 25. September 1513 den Pazifischen Ozean?",
+  "antwort": [
+   "Vasco Núñez de Balboa",
+   "Vasco Nuñez de Balboa",
+   "Vasco Nunez de Balboa",
+   "Nunez de Balboa",
+   "Núñez de Balboa"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wieviele Killer gibt es bei Dead by Daylight",
+  "antwort": [
+   "17"
+  ],
+  "typ": "number",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wo wurde das erste Baseballspiel ausgetragen",
+  "antwort": [
+   "New Jersey",
+   "NJ",
+   "Neujersey"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie viele Einwohner hat Murphy, North Carolina",
+  "antwort": [
+   "1638"
+  ],
+  "typ": "number",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Welches ist der erste Tag der Woche",
+  "antwort": [
+   "Sonntag",
+   "So",
+   "Herrentag"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wann fing man im hockey an helme zu tragen",
+  "antwort": [
+   "1979"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Welches ist die aktuellste Version von iOS",
+  "antwort": [
+   "13.1",
+   "13,1",
+   "13"
+  ],
+  "typ": "number",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer hat die Definition von Geld gegeben, dass Geld ist was Geld tut",
+  "antwort": [
+   "Harley Withers"
+  ],
+  "typ": "short_phrase",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann kam Seasons in the Sun heraus?",
+  "antwort": [
+   "1974"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie werden Kurse genannt, welche gemeinnützige Aktivitäten beinhalten, aber dennoch angerechnet werden",
+  "antwort": [
+   "Service Learning"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann hat der Jungfan den Ball gefangen?",
+  "antwort": [
+   "2003"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie groß ist ein Standard-Basketball",
+  "antwort": [
+   "29.5",
+   "29,5",
+   "29"
+  ],
+  "typ": "number_with_unit",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer war der Zweitplatzierte in der ersten Staffel von Dancing With The Stars",
+  "antwort": [
+   "Charlotte Jørgensen"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wo beginnt und endet der Alaska Highway",
+  "antwort": [
+   "Delta Junction"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wen besiegten die Buccaneers im Super Bowl",
+  "antwort": [
+   "Las Vegas Raiders",
+   "Oakland Raiders"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Was ist das beliebteste Video auf YouTube überhaupt?",
+  "antwort": [
+   "Despacito"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Auf welches Gymnasium ging Will Arnett?",
+  "antwort": [
+   "Leaside High School"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "welches war die heisseste temperatur aller zeiten in arizona",
+  "antwort": [
+   "128"
+  ],
+  "typ": "number_with_unit",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "welche städte in den vereinigten staaten haben die meisten einwohner",
+  "antwort": [
+   "Chicago",
+   "Chicago, Illinois"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann haben die Cleveland Browns nach Baltimore gewechselt",
+  "antwort": [
+   "1996"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer sang \"You've got your troubles, I've got mine\"?",
+  "antwort": [
+   "The Fortunes",
+   "Fortunes",
+   "Rod Allen"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer singt behind the sea panic at the disco",
+  "antwort": [
+   "Panic! at the Disco"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Was ist die Höchstgeschwindigkeit einer Boeing 737?",
+  "antwort": [
+   "564"
+  ],
+  "typ": "number_with_unit",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann waren wir zuletzt im Krieg mit Frankreich",
+  "antwort": [
+   "1778"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer singte  das lied  flieg mich zum Mond",
+  "antwort": [
+   "Frank Sinatra",
+   "Francis Sinatra",
+   "Francis Albert Sinatra",
+   "Frankie Blue Eyes",
+   "The Voice"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "was ist das neueste need for speed  spiel",
+  "antwort": [
+   "Need for Speed Heat",
+   "NFS Heat",
+   "NFS: Heat"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wo landete Apollo 11 auf dem Mond",
+  "antwort": [
+   "Mare Tranquillitatis"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wieviele tore hat messi für barcelona geschossen",
+  "antwort": [
+   "600"
+  ],
+  "typ": "number",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie viele Hyatt Hotels gibt es in den USA",
+  "antwort": [
+   "777"
+  ],
+  "typ": "number",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer singt do you think you're better off alone",
+  "antwort": [
+   "Alice DeeJay",
+   "Alice DJ",
+   "Alice Dee jay"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Welches ist der erste Tag der Woche?",
+  "antwort": [
+   "Montag",
+   "Mo"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wie heißt die scripting sprache die in linux betriebssytemen verwendet wird",
+  "antwort": [
+   "Bourne-again shell",
+   "Bourne-Again-Shell",
+   "BASH",
+   "bash"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann ist apollo 11 erstmals auf dem Mond gelandet",
+  "antwort": [
+   "1969"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer singt \" i saw mommy kissing santa claus\"",
+  "antwort": [
+   "The Jackson Five",
+   "Jackson Five",
+   "Jackson 5",
+   "The Jackson 5"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer gewann die letzte Show Dance Plus 3",
+  "antwort": [
+   "Bir Radha Sherpa"
+  ],
+  "typ": "short_phrase",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann kamen Laurel und Hardy nach England",
+  "antwort": [
+   "1952"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wohin geht Cristina Yang in Grey’s Anatomy",
+  "antwort": [
+   "Zürich"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer spielte den Sheriff von Nottingham in Robin Hood",
+  "antwort": [
+   "Ben Mendelsohn"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Was ist die aktuelle Bevölkerung von Phoenix, Arizona ?",
+  "antwort": [
+   "1626000"
+  ],
+  "typ": "number",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer ist der autor vom buch wunder",
+  "antwort": [
+   "Raquel J. Palacio",
+   "Raquel Jaramillo Palacio",
+   "R.J. Palacio",
+   "Raquel Jaramillo"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer hat vorhergesagt dass sich alle Materie in Wellen oder als Partikel ausdrückt",
+  "antwort": [
+   "Louis de Broglie",
+   "Louis-Victor Pierre Raymond duc de Broglie",
+   "Louis-Victor de Broglie",
+   "Louis Victor de Broglie",
+   "Louis-Victor Pierre Raymond de Broglie"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer spielt das Phantom in Das Phantom der Oper",
+  "antwort": [
+   "Gerard Butler"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie viele Leute schnallen sich statistisch gesehen in Texas an?",
+  "antwort": [
+   "87"
+  ],
+  "typ": "number_with_unit",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Es war einmal eine Aschenputtel-Geschichte",
+  "antwort": [
+   "Lucy Hale",
+   "Karen Lucille Hale",
+   "Lucy Kate Hale"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer spiel den verstümmelten Jungen in shallow hall",
+  "antwort": [
+   "Rene Kirby"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer ist als painter of light bekannt",
+  "antwort": [
+   "Thomas Kinkade"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann kam ein harter Tag Nacht heraus?",
+  "antwort": [
+   "1964"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer singt Let's marvin gaye and get it on",
+  "antwort": [
+   "Charlie Puth",
+   "Charles Otto Puth Junior"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie nennt man eine Person, die die Zukunft voraussagt",
+  "antwort": [
+   "augur"
+  ],
+  "typ": "short_phrase",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Welches ist das größte Gebäude der Philippinen",
+  "antwort": [
+   "Grand Hyatt Manila"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wo lebten die Pilger, bevor sie in die neue Welt segelten?",
+  "antwort": [
+   "Leiden",
+   "Leyden",
+   "Lugdunum Batavorum"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "der Zweig der Zoologie, der sich mit dem Studium der Fische befasst",
+  "antwort": [
+   "Ichthyologie",
+   "Fischkunde",
+   "Ichthyologe"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Name des fliegenden Hundes in Die unendliche Geschichte",
+  "antwort": [
+   "Falkor"
+  ],
+  "typ": "short_phrase",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Welche Farben hat Alpha Chi Omega",
+  "antwort": [
+   "Oliv"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann trat der Modern Slavery Act in Kraft",
+  "antwort": [
+   "2015"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann wurde das Lied i can only imagine gemacht?",
+  "antwort": [
+   "2001"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer ist der Vorsitzende der Lokalregierung von Isolo",
+  "antwort": [
+   "idris bolaji muse ariyoh"
+  ],
+  "typ": "short_phrase",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "In welchem Alter beendete Brett Favre seine Football-Karriere?",
+  "antwort": [
+   "45"
+  ],
+  "typ": "number_with_unit",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer singt Don't you forget about me in der Werbung",
+  "antwort": [
+   "Willis Earl Beal"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer schrieb das Gedicht in der Zeit der Pest",
+  "antwort": [
+   "Thomas Nashe",
+   "Nashe"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer gewann die maximale Anzahl an IPL TIteln",
+  "antwort": [
+   "Mumbai Indians"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "In welcher Zeit spielt 'Wer die Nachtigall stört'?",
+  "antwort": [
+   "1930"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer war der erste Oberbefehlshaber von Indien",
+  "antwort": [
+   "Kodandera Madappa Cariappa"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer läuft für die demokratische Partei im Jahr 2020",
+  "antwort": [
+   "Joe Biden",
+   "Joseph Robinette Biden",
+   "Joseph Robinette Biden, Jr.",
+   "Joseph R. Biden",
+   "Joseph Biden",
+   "Joseph Robinette \"Joe\" Biden, Jr."
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie hoch ist der durchschnittliche männliche Körperfettanteil",
+  "antwort": [
+   "18"
+  ],
+  "typ": "number_with_unit",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wann haben die los angeles dodgers das letzte mal die world series gewonnen",
+  "antwort": [
+   "1988"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer hat den schnellsten 40-Yard-Sprint in der NFL",
+  "antwort": [
+   "John Ross",
+   "John Ross III"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "who sings don't go breaking my heart Songtext",
+  "antwort": [
+   "Kiki Dee",
+   "Pauline Matthews"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer schrieb das Lied Call Me the Breeze",
+  "antwort": [
+   "J. J. Cale",
+   "JJ Cale",
+   "John Weldon Cale",
+   "John W. Cale",
+   "J.J. Cale"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Woher stammt Blue Bell Ice Cream",
+  "antwort": [
+   "Vereinigte Staaten",
+   "USA",
+   "Amerika",
+   "U.S.A.",
+   "US",
+   "U.S.",
+   "America",
+   "United States of America",
+   "United States",
+   "die Staaten",
+   "Vereinigte Staaten von Amerika",
+   "U. S. A.",
+   "U. S.",
+   "VS",
+   "V.S.",
+   "V. S.",
+   "VSA",
+   "V.S.A.",
+   "V. S. A.",
+   "die Staaten von Amerika"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer hat die meisten Tore in der Fußballgeschichte erzielt?",
+  "antwort": [
+   "Pelé",
+   "Edison Arantes do Nascimento",
+   "Edson Arantes do Nascimento"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie viele Sitze hat die Rajya Sabha",
+  "antwort": [
+   "245"
+  ],
+  "typ": "number",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer hat die meisten Punkte in einem NBA Spiel",
+  "antwort": [
+   "Wilt Chamberlain",
+   "Wilton Norman Chamberlain"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer hat gesungen Crazy for you in den 90er Jahren",
+  "antwort": [
+   "Let Loose"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer waren die Schauspieler in der TV Serie Route 66",
+  "antwort": [
+   "Glenn Corbett",
+   "Glenn Rothenburg"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Woher stammt der Nachname Zapata?",
+  "antwort": [
+   "Italien",
+   "Italienische Republik"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer hat academy awards für Schauspiel und Schreiben erhalten",
+  "antwort": [
+   "Emma Thompson"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wann wurde die Unabhängigkeitserklärung unterschrieben",
+  "antwort": [
+   "1776"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wo wurde \"Girl on the train\" gefilmt",
+  "antwort": [
+   "Vereinigte Staaten",
+   "USA",
+   "Amerika",
+   "U.S.A.",
+   "US",
+   "U.S.",
+   "America",
+   "United States of America",
+   "United States",
+   "die Staaten",
+   "Vereinigte Staaten von Amerika",
+   "U. S. A.",
+   "U. S.",
+   "VS",
+   "V.S.",
+   "V. S.",
+   "VSA",
+   "V.S.A.",
+   "V. S. A.",
+   "die Staaten von Amerika"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann kam Versace on the floor  heraus?",
+  "antwort": [
+   "2016"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Während des englischen Bürgerkriegs wurden diejenigen gerufen, die den Monarchen unterstützten",
+  "antwort": [
+   "Roundhead",
+   "Roundheads"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann kommt america's got talent raus",
+  "antwort": [
+   "2006"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wem gehört die Stimme von Cruz Ramirez in Cars 3",
+  "antwort": [
+   "Cristela Alonzo"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie heißt der Flughafen von phoenix",
+  "antwort": [
+   "Phoenix Sky Harbor International Airport",
+   "Sky Harbor International Airport",
+   "KPHX",
+   "PHX"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wo haben sie den Film gemacht?",
+  "antwort": [
+   "Oshawa"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer schrieb die Filmmusik für Der Herr der Ringe?",
+  "antwort": [
+   "Howard Shore"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie weit ist Sutherland Springs von Florida?",
+  "antwort": [
+   "14.5",
+   "14,5",
+   "14"
+  ],
+  "typ": "number_with_unit",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie viele Seiten sind in Harry Potter Büchern",
+  "antwort": [
+   "3407"
+  ],
+  "typ": "number",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer sang das Lied \"The First Time Ever I Saw Your Face\"?",
+  "antwort": [
+   "Roberta Flack"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "für welche filme hat tom hanks einen oscar gewonnen",
+  "antwort": [
+   "Philadelphia"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer hat Carolina Panthers im Super Bowl besiegen",
+  "antwort": [
+   "Denver Broncos"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann wurde die Umayyaden-Moschee gebaut",
+  "antwort": [
+   "8. Jahrhundert"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann haben die cleveland browns zum letzten mal ein playoff gewonnen",
+  "antwort": [
+   "1995"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wo geschah das San Francisco Erdbeben im Jahre 1906",
+  "antwort": [
+   "San Juan Bautista"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer sang a nightingale sang in berkeley square",
+  "antwort": [
+   "Vera Lynn",
+   "Vera Margaret Welch"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer machte die originale Version von Unchained Melody",
+  "antwort": [
+   "Todd Duncan"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer schrieb 'there will be peace in the valley'?",
+  "antwort": [
+   "Thomas A. Dorsey",
+   "Thomas Andrew Dorsey",
+   "Georgia Tom",
+   "Georgia Tom Dorsey"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wie lauten die titel aller star wars filme",
+  "antwort": [
+   "Das Imperium schlägt zurück",
+   "Star Wars Episode 5",
+   "Star Wars: Episode V: The Empire Strikes Back",
+   "Star Wars 5",
+   "Star Wars: Episode V - Das Imperium schlägt zurück",
+   "Star Wars: Episode V – Das Imperium schlägt zurück",
+   "The Empire Strikes Back",
+   "Star Wars Episode V"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Was sind die Top 10 größten Städte in den Vereinigten Staaten",
+  "antwort": [
+   "Chicago",
+   "Chicago, Illinois"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer ist der Präsident des GST Councils",
+  "antwort": [
+   "Nirmala Sitaraman"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie viele Meilen sind es von Tampa Florida nach Miami Florida",
+  "antwort": [
+   "280"
+  ],
+  "typ": "number_with_unit",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wann wurde amerika in den vietnam krieg involviert",
+  "antwort": [
+   "1955"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Ist der Premierminister oder der Präsident mächtiger in Frankreich",
+  "antwort": [
+   "Präsident",
+   "Präsidentin"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer trainiert die New York Giants",
+  "antwort": [
+   "Pat Shurmur"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Welcher ist der Heilige für das Auffinden von verlorenen Gegenständen",
+  "antwort": [
+   "Antonius von Padua",
+   "Hl. Antonius von Padua",
+   "Sant'Antonio da Padova",
+   "Antonius Patavinus",
+   "Antonius v. P.",
+   "Heiliger Antonius von Padua"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer gründete die Woman’s Christian Temperance Union",
+  "antwort": [
+   "Frances Willard",
+   "Frances E. Willard",
+   "Frances Elizabeth Willard",
+   "Frances Elizabeth Caroline Willard"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "In welchem Jahr haben die broncos den Super Bowl gewonnen",
+  "antwort": [
+   "1999"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wann wurde der candlestick park in san francisco gebaut",
+  "antwort": [
+   "1960"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer hat die meisten Tore in der Geschichte der champions league erzielt",
+  "antwort": [
+   "Cristiano Ronaldo",
+   "Cristiano Ronaldo dos Santos Aveiro",
+   "CR7"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann erreichte die Weltbevölkerung 1 Milliarde",
+  "antwort": [
+   "1804"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer singt i belong to you you belong to me",
+  "antwort": [
+   "The Lumineers",
+   "Lumineers"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "In welcher Folge von The Office passiert der Roast",
+  "antwort": [
+   "Stressbewältigung"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann änderte Food Lion ihren Namen von Food Town",
+  "antwort": [
+   "1983"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Top zehn afrikanische Länder mit den meisten Einwohnern?",
+  "antwort": [
+   "Demokratische Republik Kongo",
+   "DR Kongo",
+   "Dem. Rep. Kongo",
+   "Kongo-Léopoldville",
+   "Kongo-Kinshasa",
+   "Kongo",
+   "Kongo (Kinshasa)",
+   "DRK"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "gewerkschaftskräfte besetzten diese stadt in south carolina den größten teil des bürgerkriegs",
+  "antwort": [
+   "Sea Islands"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wieviele Quadratmeilen ist die Hauptinsel von Hawaii gross?",
+  "antwort": [
+   "4028"
+  ],
+  "typ": "number_with_unit",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann sind Bennie und die Jets rausgekommen?",
+  "antwort": [
+   "2000"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Was ist die Höhenlage von Las Vegas Nevada",
+  "antwort": [
+   "610"
+  ],
+  "typ": "number_with_unit",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer sang das lied house of the rising sun",
+  "antwort": [
+   "The Animals",
+   "Eric Burdon & The Animals",
+   "Eric Burdon and the Animals",
+   "Animals"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer spielt earls frau in mein name is earl",
+  "antwort": [
+   "Jaime Pressly",
+   "Pressly"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann erschien 'Don't trust me'",
+  "antwort": [
+   "2008"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wo liegt das nationale Institut für Drogenmissbrauch",
+  "antwort": [
+   "Maryland"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie viele Zähne hat ein Haifisch",
+  "antwort": [
+   "50"
+  ],
+  "typ": "number",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie lautet der Flughafencode für Seattle Washington?",
+  "antwort": [
+   "Flughafen Seattle-Tacoma",
+   "Flughafen Seattle",
+   "Flughafen Seattle/Tacoma",
+   "Sea-Tac",
+   "KSEA",
+   "Seattle-Tacoma International Airport",
+   "Seattle Tacoma International Airport",
+   "SEA"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer singt i can't fight this feeling",
+  "antwort": [
+   "REO Speedwagon"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Welches lebenswichtige Gas, das wichtig für das leben heut ist, in der frühen Atmosphäre nicht vorhanden war",
+  "antwort": [
+   "Sauerstoff"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie heißt der Schauspieler der Justin in '13 Reasons Why' spielt?",
+  "antwort": [
+   "Brandon Flynn"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann kam das Land vor der Zeit heraus?",
+  "antwort": [
+   "1988"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer hält den Rekord über die meisten ruhsing yards",
+  "antwort": [
+   "Adrian Peterson",
+   "Adrian Lewis Peterson"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer sagte better to have loved and lost than never loved at all",
+  "antwort": [
+   "Alfred Tennyson, 1. Baron Tennyson",
+   "Alfred Lord Tennyson",
+   "Alfred Tennyson"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer gilt als der originale Komponist der Russian Five",
+  "antwort": [
+   "Nikolai Andrejewitsch Rimski-Korsakow",
+   "Nikolaj Rimski-Korsakow",
+   "Nikolai Rimski-Korssakow",
+   "Nikolay Andreyevich Rimsky-Korsakov",
+   "Nikolai Rimski-Korsakow",
+   "Rimsky-Korsakov",
+   "Nikolai Rimsky-Korsakov",
+   "Nikolay Rimsky-Korsakov",
+   "Nikolaj Andrejewitsch Rimski-Korsakow",
+   "Nikolai Rimsky-Korssakow"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Welches war der erste Herr der Ringe Film",
+  "antwort": [
+   "Der Herr der Ringe: Die Gefährten",
+   "Der Herr der Ringe - Die Gefährten",
+   "Die Gefährten",
+   "Herr der Ringe",
+   "Herr der Ringe 1",
+   "Der Herr der Ringe 1",
+   "Der Herr der Ringe"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann wurde Star Wars: Episode V – Das Imperium schlägt zurück herausgegeben",
+  "antwort": [
+   "1980"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Was ist die Gleichung für die Gärung in Hefe",
+  "antwort": [
+   "c6h12o6 → 2 c2h5oh + 2 co."
+  ],
+  "typ": "short_phrase",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer erschlug die Philister mit einem Eselsknochen?",
+  "antwort": [
+   "Simson",
+   "Schimschon",
+   "Samson"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann erscheint die neue Folge von The Flash",
+  "antwort": [
+   "2019"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer hat das Lied where have all the flowers gone geschrieben",
+  "antwort": [
+   "Pete Seeger",
+   "Peter Seger",
+   "Peter Seeger"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wo finden die Olympischen Sommerspiele 2028 statt?",
+  "antwort": [
+   "Kalifornien",
+   "CA",
+   "State of California",
+   "The Golden State",
+   "California"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wen hat james best in der andy griffith show gespielt",
+  "antwort": [
+   "Rosco P. Coltrane"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann wurden die USA in den Vietnamkrieg verwickelt?",
+  "antwort": [
+   "1955"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer spielt Izzie Stevens in Grey's Anatomy",
+  "antwort": [
+   "Katherine Heigl",
+   "Katherine Marie Heigl"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wann endet die hurrikan saison für new orleans",
+  "antwort": [
+   "30. November"
+  ],
+  "typ": "short_phrase",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie heißen die Richter am Obersten Gerichtshof?",
+  "antwort": [
+   "Samuel Alito",
+   "Sam Alito",
+   "Samuel Anthony Alito Jr.",
+   "Samuel A. Alito, Jr.",
+   "Alito"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "welche länder nahmen an den ersten modernen olympischen spielen teil",
+  "antwort": [
+   "Königreich Großbritannien"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Welches Jahr war \" unter Gott \" zum Treue-Gelöbnis hinzugefügt ?",
+  "antwort": [
+   "1954"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann wurde das Grand Hotel Scarborough erbaut",
+  "antwort": [
+   "1867"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer ist Präsident der Weltgesundheitsorganisation?",
+  "antwort": [
+   "Tedros Adhanom Ghebreyesus"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer spielt Ridge Forrester auf the bold and the beautiful",
+  "antwort": [
+   "Ronn Moss"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer spielt anastasia steele in fifty shades of grey",
+  "antwort": [
+   "Dakota Johnson"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer schrieb die sieben Weltwunder der Antike",
+  "antwort": [
+   "Herodot",
+   "Herodot von Halikarnassos"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "In welcher Sprache ist die Sangam-Literatur geschrieben",
+  "antwort": [
+   "Tamil",
+   "Tamilisch"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer sing life's been good to me so far",
+  "antwort": [
+   "Joe Walsh"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer gilt als Vater den indischen Verfassung",
+  "antwort": [
+   "Bhimrao Ramji Ambedkar",
+   "Ambedkar",
+   "Babasaheb",
+   "B. R. Ambedkar"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer gewann die Pokerweltmeisterschaft in der letzten Nacht?",
+  "antwort": [
+   "Hossein Ensan"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer war Präsident der Vereinigten Staaten während des Civil War",
+  "antwort": [
+   "Abraham Lincoln",
+   "Abe Lincoln",
+   "Lincoln",
+   "A. Lincoln",
+   "Präsident Lincoln"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer ist derzeit der älteste Spieler in der NBA",
+  "antwort": [
+   "Vince Carter",
+   "Vincent Lamar Carter"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer singt die Lieder für Phineas und Ferb",
+  "antwort": [
+   "Bowling for Soup",
+   "Bowling For Soup",
+   "Bowling for soup",
+   "Jaret Reddick"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann ist Ferris Buellers freier Tag herausgekommen?",
+  "antwort": [
+   "1986"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer sang i want to know your name",
+  "antwort": [
+   "The Whispers"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer ist Gasgeber der Fußball-Weltmeisterschaft 2026",
+  "antwort": [
+   "Mexiko",
+   "Vereinigte Mexikanische Staaten",
+   "México",
+   "Mexihco",
+   "🇲🇽"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer ist der meistgesuchte Kriminelle der Welt?",
+  "antwort": [
+   "El Chapo",
+   "Joaquín Archivaldo Guzmán Loera",
+   "Joaquín Guzmán"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer erfand das Sandwich mit Erdnussbutter und Marmelade?",
+  "antwort": [
+   "Earl of Sandwich"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer singt 'I'm not the only one'",
+  "antwort": [
+   "Sam Smith",
+   "Samuel Frederick Smith"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wo wurde das Königliche Spiel von Ur gefunden",
+  "antwort": [
+   "Mesopotamien",
+   "Zweistromland",
+   "Zwischenstromland"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer ist der beste Torschütze der NHL",
+  "antwort": [
+   "Nikita Igorewitsch Kutscherow"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wann erschien a star is born",
+  "antwort": [
+   "2018"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie ist der Name des Entwicklers von Roblox?",
+  "antwort": [
+   "Erik Cassel"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "welche staaten haben das stand your ground gesetzt",
+  "antwort": [
+   "Arizona",
+   "AZ",
+   "Grand Canyon State"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie viele Einwohner hat detroit lakes minnesota",
+  "antwort": [
+   "9216"
+  ],
+  "typ": "number",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer schrieb eine kurze Erklärung über das Buch des Mormon",
+  "antwort": [
+   "Joseph Smith"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wo wird der film friedenliebe und missverständnis gefilmt",
+  "antwort": [
+   "New York",
+   "Empire State",
+   "NY",
+   "New York Staat",
+   "New York State",
+   "NYS"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wo spielen die los angeles chargers Football",
+  "antwort": [
+   "StubHub Center",
+   "The Home Depot Center",
+   "Home Depot Center"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer singt den Song \"I Am a Child of God\"?",
+  "antwort": [
+   "Hillsong Anbetung"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wann endete how I met your mother?",
+  "antwort": [
+   "2014"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer diesen Kerl geschrieben hat, ist in dich verliebt",
+  "antwort": [
+   "Hal David"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wie lauten die namen der erzengel",
+  "antwort": [
+   "Gabriel",
+   "Erzengel Gabriel",
+   "Djibril",
+   "Sankt Gabriel",
+   "Dschibril"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer sang lay your head on my pillow",
+  "antwort": [
+   "Tony! Toni! Toné!",
+   "Tony! Toni! Tone!",
+   "Tony Toni Tone",
+   "Tony Toni Toné"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer hat die erste staffel von project runway gewonnen",
+  "antwort": [
+   "Jay McCarroll"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Welche 2006 nominierten Bilder verloren gegen the departed",
+  "antwort": [
+   "Babel"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "The Beatels sang \"all i want for christmas\"",
+  "antwort": [
+   "Dora Bryan"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer ist der schlagzeuger der red hot chili peppers",
+  "antwort": [
+   "Cliff Martinez"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Was ist der Name des Kennedy Compound",
+  "antwort": [
+   "Kennedy Compound"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer hat das Lied what the world needs now is love sweet love gesungen",
+  "antwort": [
+   "Jackie DeShannon",
+   "DeShannon",
+   "Sharon Lee Myers",
+   "Jackie Dee"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer ist der bestbezahlte NBA Spieler aller Zeiten",
+  "antwort": [
+   "Kevin Garnett"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Was ist die Hauptstadt von Aserbaidschan in Europa",
+  "antwort": [
+   "Baku"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer hat das Titellied für happy valley geschrieben",
+  "antwort": [
+   "Jake Bugg"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Die Chroniken von Narnia: Prinz Kaspian von Narnia Besetzen",
+  "antwort": [
+   "Georgie Henley",
+   "Georgina Helen Henley"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer spielt Evil Steve in \"Keith Lemon: The Film\"",
+  "antwort": [
+   "Leigh Francis"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Die Umayyaden-Dynastie verlegten ihre Hauptstadt in diese Stadt",
+  "antwort": [
+   "Damaskus"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wo wird der  Land Rover Discovery Sport gebaut",
+  "antwort": [
+   "Vereinigtes Königreich",
+   "UK",
+   "Vereinigtes Königreich Großbritannien und Nordirland",
+   "Großbritannien",
+   "GB",
+   "GBR"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer schrieb \"take it to the limit \" von The Eagles",
+  "antwort": [
+   "Randy Meisner"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer half bei der Gründung des ersten nationalen Verbandes zur Vertretung der Zahnärzteschaft",
+  "antwort": [
+   "chapin harris"
+  ],
+  "typ": "short_phrase",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wann war das letzte mal das britanien einen könig und eine königin hatte",
+  "antwort": [
+   "1952"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wann haben die usa den vietnam krieg verlassen",
+  "antwort": [
+   "1973"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wann zogen die seattle supersonics nach oklahoma city um",
+  "antwort": [
+   "2008"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "der erste demokratische Präsident seit Beginn des Bürgerkriegs gekämpft",
+  "antwort": [
+   "Grover Cleveland",
+   "Grover Cleveland Jr.",
+   "Stephen Grover Cleveland",
+   "Stephen Grover Cleveland Jr.",
+   "S. Grover Cleveland",
+   "Stephen G. Cleveland",
+   "Präsident Cleveland",
+   "US-Präsident Cleveland"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer ist der 14 Präsident von Nigeria",
+  "antwort": [
+   "Goodluck Jonathan",
+   "Goodluck Ebele Jonathan"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "der den ersten z1-Binär-Digitalcomputer der Welt erfand",
+  "antwort": [
+   "Konrad Zuse",
+   "Konrad Ernst Otto Zuse"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer hat Calypso in Fluch der Karibik gespielt?",
+  "antwort": [
+   "Naomie Harris",
+   "Naomie Melanie Harris"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wann erschien der film next friday",
+  "antwort": [
+   "2000"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Welche Maße hat ein King Size Bett",
+  "antwort": [
+   "76"
+  ],
+  "typ": "number_with_unit",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Input/Output Geräte die User miteinander kommunizieren lassen heißen wie",
+  "antwort": [
+   "Ein-/Ausgabe Geräte"
+  ],
+  "typ": "short_phrase",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer hat den Golden Buzzer bei AGT 2018 erhalten",
+  "antwort": [
+   "Kodi Lee"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer ist der Premierminister von Trinidad und Tobago?",
+  "antwort": [
+   "Keith Rowley",
+   "Keith Cristopher Rowley"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer spielt den Inder in \"Wayne's World 2\"?",
+  "antwort": [
+   "Larry Sellers"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann fand das Las Vegas Shooting statt?",
+  "antwort": [
+   "2017"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wo wurde der film High School Musical gedreht",
+  "antwort": [
+   "Nordamerika"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer hat Charlie in Charlie und die Schokoladenfabrik gespielt",
+  "antwort": [
+   "Peter Ostrum"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer singt i love how you love me",
+  "antwort": [
+   "The Paris Sisters"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer erfand wann die Elektrizität",
+  "antwort": [
+   "Benjamin Franklin",
+   "Silence Dogood",
+   "Polly Baker",
+   "Richard Saunders"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Welcher Turner, welche Turnerin gewann die meisten Auszeichungen aller Zeiten",
+  "antwort": [
+   "Simone Biles"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wo wurde Mach, was wir sagen gefilmt",
+  "antwort": [
+   "Vereinigtes Königreich",
+   "UK",
+   "Vereinigtes Königreich Großbritannien und Nordirland",
+   "Großbritannien",
+   "GB",
+   "GBR"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "In welcher Folge von SpongeBob kommt der hash-slinging Slasher vor?",
+  "antwort": [
+   "Nachtschicht"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer sind die Mitglieder der ABC Gruppe",
+  "antwort": [
+   "Ita Buttrose"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer war die letzte Person, die durch ein Erschiessungskommando exekutiert wurde?",
+  "antwort": [
+   "Ronnie Lee Gardner"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wann startete der prinz von bel air",
+  "antwort": [
+   "1990"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "in welchem jahr spielt der film Herkules und die Sandlot-Kids",
+  "antwort": [
+   "1962"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Mit wem machte def leppard die tour in 1981",
+  "antwort": [
+   "Ozzy Osbourne",
+   "Ozzy",
+   "John Michael Osbourne"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wie viele anwaltsschulen gibt es in den vereinigten staaten",
+  "antwort": [
+   "237"
+  ],
+  "typ": "number",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer singt das Lied ain't no mountain high enough",
+  "antwort": [
+   "Marvin Gaye"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wen spielt taylor swift in der lorax",
+  "antwort": [
+   "Audrey"
+  ],
+  "typ": "short_phrase",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer singt i want to ride my bicycle",
+  "antwort": [
+   "Queen"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann hat ein Mid-major das letzte mal das NCAA Turnier gewonnen?",
+  "antwort": [
+   "1977"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer sind die Bandmitglieder von the cars",
+  "antwort": [
+   "David Robinson"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer sang, der flog mich ursprünglich zum Mond",
+  "antwort": [
+   "Frank Sinatra",
+   "Francis Sinatra",
+   "Francis Albert Sinatra",
+   "Frankie Blue Eyes",
+   "The Voice"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "In welchem Film wird das Lied Pumpin Blood gespielt.",
+  "antwort": [
+   "Endless Love"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wie viele kapitel hat the westing game",
+  "antwort": [
+   "30"
+  ],
+  "typ": "number",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer folgt dem Staatssekretär in der Präsidentenfolge",
+  "antwort": [
+   "Vizepräsident der Vereinigten Staaten",
+   "US-Vizepräsident",
+   "VPOTUS"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer sang i've got a crush on you",
+  "antwort": [
+   "Frank Sinatra",
+   "Francis Sinatra",
+   "Francis Albert Sinatra",
+   "Frankie Blue Eyes",
+   "The Voice"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "welche flagge hat einen weißen hintergrund mit einem rotem kreuz",
+  "antwort": [
+   "Königreich England",
+   "Englisches Königreich"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann war die letzte Weltmeisterschaft in den USA",
+  "antwort": [
+   "1994"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wie alt muss man sein, um als präsident der vereinigten staaten zu kandidieren",
+  "antwort": [
+   "35"
+  ],
+  "typ": "number_with_unit",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer spielt Snape in den Harry Potter Filmen",
+  "antwort": [
+   "Alan Rickman",
+   "Alan Sidney Patrick Rickman"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer spielt Vinnie in Orange ist das neue Schwarz?",
+  "antwort": [
+   "John Magaro"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wann haben die packers zuletzt den super bowl gewonnen",
+  "antwort": [
+   "2011"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Was ist die Hauptstadt der Karibikinseln",
+  "antwort": [
+   "Castries"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "was ist die postleitzahl für kansas city missouri",
+  "antwort": [
+   "64102"
+  ],
+  "typ": "number",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer ist der Verfasser von Indien geteilt?",
+  "antwort": [
+   "Rajendra Prasad"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer spielt Graf Olaf in Eine Reihe betrüblicher Ereignisse",
+  "antwort": [
+   "Neil Patrick Harris"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer sagte 'Sprich sanft und trage einen großen Knüppel'?",
+  "antwort": [
+   "Theodore Roosevelt",
+   "Teddy Roosevelt",
+   "Theodore \"Teddy\" Roosevelt",
+   "Teddy",
+   "T. Roosevelt",
+   "Präsident Roosevelt",
+   "US-Präsident Roosevelt"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wie heißt der affe im film aladdin?",
+  "antwort": [
+   "Abu"
+  ],
+  "typ": "short_phrase",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann wurde der Film Schneewittchen herausgegeben",
+  "antwort": [
+   "1937"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Welcher Planet wurde nach dem römischen Kriegsgott benannt?",
+  "antwort": [
+   "Mars",
+   "Roter Planet"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wieviele Rippen gibt es im menschlichen Körper",
+  "antwort": [
+   "24"
+  ],
+  "typ": "number",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie viele Tore hat Messi in Barcelona erzielt?",
+  "antwort": [
+   "600"
+  ],
+  "typ": "number",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer war hauptdarsteller in Zwei Banditen",
+  "antwort": [
+   "Strother Martin"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer ist das Top Mitglied im Senat",
+  "antwort": [
+   "Patrick Leahy"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer ist der Dämon, der Sam und Deans Mutter getötet hat?",
+  "antwort": [
+   "Azazel"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "welcher ist der einzige Schädelnerv der mit dem Großhirn verbunden ist",
+  "antwort": [
+   "Nervus olfactorius",
+   "Riechnerv",
+   "N. olfactorius"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer schrieb das buch in 80 tagen um die welt",
+  "antwort": [
+   "Jules Verne",
+   "Jules-Gabriel Verne",
+   "Julius Verne"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer hat das Buch \"Die Vereinten Nationen und die Menschenrechte\" geschrieben?",
+  "antwort": [
+   "Eleanor Roosevelt",
+   "Anna Eleanor Roosevelt"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wen spielt Vin Diesel in The Fast and the Furious",
+  "antwort": [
+   "Dominic Toretto"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann wurde die erste öffentliche Eisenbahn in den Vereinigten Staaten begonnen zu bauen",
+  "antwort": [
+   "1830"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer das Lied gesungen hat, kommt mit mir",
+  "antwort": [
+   "The Del-Vikings"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Welche sind die 11 Länder von Südostasien?",
+  "antwort": [
+   "Singapur"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Woher bekam das Land Chad seinen Namen?",
+  "antwort": [
+   "Tschadsee",
+   "Tschad-See"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer sang Honey Don't von den Beatles",
+  "antwort": [
+   "The Beatles",
+   "Die Beatles",
+   "Pilzköpfe"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie ist die Flugbahn der Planeten um die Sonne?",
+  "antwort": [
+   "Ekliptik",
+   "Ekliptikebene",
+   "Ekliptikalebene",
+   "Tierkreiszone",
+   "ekliptikale Breite der Sonne"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "was war der nummer 1 country song im jahre 1970",
+  "antwort": [
+   "A Week in a Country Jail"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann wurde der Film Die Schöne und das Biest gedreht",
+  "antwort": [
+   "2017"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer singt das Lied, das du nicht besitzt?",
+  "antwort": [
+   "Lesley Gore",
+   "Lesley Sue Goldstein"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer schrieb das Lied Thank you for being a friend?",
+  "antwort": [
+   "Andrew Gold"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer spielt den Joker in The Dark Knight Rises",
+  "antwort": [
+   "Heath Ledger",
+   "Heath Andrew Ledger"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer war die letzte Person, die in den USA hingerichtet wurde?",
+  "antwort": [
+   "Lee Hall"
+  ],
+  "typ": "short_phrase",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer spielt Avery in Dog with a Blog?",
+  "antwort": [
+   "Genevieve Hannelius",
+   "G. Hannelius",
+   "Hannelius"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wen hat Mel Gibson in \"the patriot\" gespielt",
+  "antwort": [
+   "benjamin martin"
+  ],
+  "typ": "short_phrase",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "majestätische Bushaltestelle zu Satellitenbushaltestelle Busnummer",
+  "antwort": [
+   "221"
+  ],
+  "typ": "number",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "für wen spielt der honigdachs in der nfl",
+  "antwort": [
+   "Kansas City Chiefs",
+   "Dallas Texans"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wie hoch ist die bevölkerungszahl von san tan valley arizona",
+  "antwort": [
+   "81321"
+  ],
+  "typ": "number",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer ersetzt den präsidenten wenn er stirbt",
+  "antwort": [
+   "Vizepräsident",
+   "Vice President",
+   "Executive Vice President",
+   "Corporate Senior Vice President",
+   "Senior Vice President",
+   "Senior Executive Vice President",
+   "Vize-Präsident",
+   "Vizepräsidentin",
+   "stellvertretender Geschäftsführer"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer hat das Lied the show must go on geschrieben",
+  "antwort": [
+   "Brian May",
+   "Brian Harold May"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wann regnet es am meisten in oregon",
+  "antwort": [
+   "Oregon",
+   "US-OR",
+   "Biberstaat"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wo fand die Schlacht von Verdun statt?",
+  "antwort": [
+   "Grand Est",
+   "Alsace-Champagne-Ardenne-Lorraine",
+   "Elsass-Champagne-Ardennen-Lothringen"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer sang \"As Long As He Needs Me\"?",
+  "antwort": [
+   "Shirley Bassey",
+   "Dame Shirley Bassey",
+   "Shirley Veronica Bassey"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Welche Schauspieler haben James Bond gespielt",
+  "antwort": [
+   "Pierce Brosnan",
+   "Pierce Brendan Brosnan",
+   "Brosnan"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wo filmen sie The People's Court?",
+  "antwort": [
+   "Connecticut"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Von wem glaubte man der erste Europäer zu sein, der Australien entdeckte",
+  "antwort": [
+   "Willem Jansz"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wo befindet sich das Stadion der New York Jets?",
+  "antwort": [
+   "New Jersey",
+   "NJ",
+   "Neujersey"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer singt das Lied dancing in the moonlight",
+  "antwort": [
+   "King Harvest"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer spielte buffalo bill in das schweiger der lämmer",
+  "antwort": [
+   "Ted Levine"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie alt muss man sein um in connecticut Zigaretten kaufen zu dürfen",
+  "antwort": [
+   "21"
+  ],
+  "typ": "number_with_unit",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer spielte gaston in dem film die schöne und das biest",
+  "antwort": [
+   "Luke Evans"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "woher kommt der begriff monkey bread",
+  "antwort": [
+   "Ungarn"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wo haben sie die Full Metal Alchemist Filme gedreht?",
+  "antwort": [
+   "Asien"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Was bedeutet das r im Kreis Symbol?",
+  "antwort": [
+   "Registered Trade Mark",
+   "(R)",
+   "Registered Trademark"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie viele Einwohner hat St. John, Neufundland",
+  "antwort": [
+   "113948"
+  ],
+  "typ": "number",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer singt i wanna hold your hand",
+  "antwort": [
+   "The Beatles",
+   "Die Beatles",
+   "Pilzköpfe"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann ist zuletzt jemand auf dem Mond spazieren gegangen",
+  "antwort": [
+   "1972"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer hat Englands letztes Weltcup Tor gemacht",
+  "antwort": [
+   "Geoff Hurst",
+   "Geoffrey Charles Hurst",
+   "Geoffrey Hurst"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer schrieb das Lied 'Help Me Make It Through The Night'?",
+  "antwort": [
+   "Kris Kristofferson",
+   "Kristofferson",
+   "Kristoffer Kristofferson"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer sang das lied i'm so lonesome i could cry",
+  "antwort": [
+   "Hank Williams",
+   "Hank Williams Sr.",
+   "Luke the Drifter"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wann wurde die Verfassung der Vereinigten Staaten geschrieben",
+  "antwort": [
+   "1787"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wo fand die Schlacht von Kaskaskia statt?",
+  "antwort": [
+   "Illinois"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Von wem stammt der Ausdruck 'You'r never fully dressed without a smile'",
+  "antwort": [
+   "Martin Charnin"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer ist die Schauspielerin von Ginny Weasley?",
+  "antwort": [
+   "Bonnie Wright",
+   "Bonnie Francesca Wright"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer sang 'Don't mess with my toot toot'",
+  "antwort": [
+   "Denise LaSalle",
+   "Ora Denise Allen"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann wurde Havanna zur Hauptstadt Kubas gemacht",
+  "antwort": [
+   "1519"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Länder in Europa on denen Englisch die offizielle Sprache ist",
+  "antwort": [
+   "Gibraltar"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "die formel zur herstellung von methan ist c",
+  "antwort": [
+   "c + 2h2(g) ---> ch4(g)"
+  ],
+  "typ": "short_phrase",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer ist die Stimme von Nemo in \"Findet Nemo\"?",
+  "antwort": [
+   "Alexander Gould",
+   "Alexander Jerome Gould"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer sang das lied don't go breaking my heart",
+  "antwort": [
+   "Elton John"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer hat als rookie die meisten homeruns",
+  "antwort": [
+   "Aaron Judge"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann wurde der Cape Hatteras Leuchtturm versetzt?",
+  "antwort": [
+   "1999"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wann war Fulham das letzte mal im Premiership",
+  "antwort": [
+   "2019"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann haben die 76er das letzte Mal die Playoffs erreicht",
+  "antwort": [
+   "2019"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wie gross ist die distanz zwischen erde und mond",
+  "antwort": [
+   "238900"
+  ],
+  "typ": "number_with_unit",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer besitzt Kernkraftwerke in den USA",
+  "antwort": [
+   "exelon generation co llc"
+  ],
+  "typ": "short_phrase",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "ein britischer Philosoph dessen Schriften frühe amerikanische Führer beeinflusst haben",
+  "antwort": [
+   "John Locke"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wohin ist der Wetter Kanal bei Directv?",
+  "antwort": [
+   "362"
+  ],
+  "typ": "number",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer ist der Mörder in And Then There Were None",
+  "antwort": [
+   "Lawrence Wargrave"
+  ],
+  "typ": "short_phrase",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer singt i can't find my way home",
+  "antwort": [
+   "Steve Winwood",
+   "Stephen Lawrence Winwood",
+   "Stevie Winwood"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer spielte trapper john in der tv serie mash",
+  "antwort": [
+   "Wayne Rogers",
+   "Wayne M. Rogers",
+   "Juan Rogero",
+   "William Wayne McMillan Rogers III"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer sang i've got spurs that jingle jangle jingle",
+  "antwort": [
+   "Gene Autry"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer verzeichnete die meisten Hits in einem  Home Run Derby",
+  "antwort": [
+   "Pete Alonso",
+   "Peter Morgan Alonso",
+   "Polar Bear"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer ist der Schauspieler der Michael Myers spielt",
+  "antwort": [
+   "Tony Moran"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann fand der Erste Weltkrieg statt",
+  "antwort": [
+   "1914"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wieviele Pferdestärken hat ein Pferd",
+  "antwort": [
+   "15"
+  ],
+  "typ": "number_with_unit",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wo ist der Bahnhof von Atlantic City",
+  "antwort": [
+   "Atlantic City"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer übernahm durch Missachtung des römischen Staates die Macht",
+  "antwort": [
+   "Gaius Iulius Caesar",
+   "Gaius Julius Cäsar",
+   "Julius Caesar",
+   "Julius Cäsar",
+   "Caesar",
+   "Cäsar"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie viele Tore erzielte Ronaldo in der Premier League?",
+  "antwort": [
+   "84"
+  ],
+  "typ": "number",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer ist der football trainer der university of texas",
+  "antwort": [
+   "Tom Herman"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer schrieb die Erklärung der Menschen- und Bürgerrechte",
+  "antwort": [
+   "Marie-Joseph Motier, Marquis de La Fayette",
+   "Marie-Joseph du Motier",
+   "Marquis de Lafayette",
+   "Marquis de La Fayette",
+   "Marie-Joseph Lafayette"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wo findet die west virginia state fair statt",
+  "antwort": [
+   "Fairlea"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer hat Alben genannt",
+  "antwort": [
+   "Adele",
+   "Adele Laurie Blue Adkins"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann wurde The Return of the First Avenger veröffentlicht",
+  "antwort": [
+   "2014"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer schrieb das Lied \"Rainy Night in Georgia\"?",
+  "antwort": [
+   "Tony Joe White"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Welche zwei Atome haben alle organischen Verbindungen gemeinsam",
+  "antwort": [
+   "Kohlenstoff"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann stirbt der Hund im Gehen?",
+  "antwort": [
+   "Leben und Tod"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wo findet der film soul surfer statt",
+  "antwort": [
+   "Hawaii"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "die auf den Beverly Hillbillies Dash Rip Rock spielten",
+  "antwort": [
+   "Lawrence Kenneth Pennell"
+  ],
+  "typ": "short_phrase",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer schrieb Angst und Schrecken in Las Vegas",
+  "antwort": [
+   "Hunter S. Thompson",
+   "Hunter Stockton Thompson",
+   "Hunter Thompson",
+   "Gonzo Fist"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie weit ist Montgomery Alabama von Columbus Georgia?",
+  "antwort": [
+   "89"
+  ],
+  "typ": "number_with_unit",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann wurde das Prudential Building in Chicago erbaut",
+  "antwort": [
+   "1955"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wo findet heuer das All-Star-Spiel statt",
+  "antwort": [
+   "Nationals Park"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer sang das Lied let the sunshine in",
+  "antwort": [
+   "The 5th Dimension",
+   "Townson",
+   "5th Dimension",
+   "Ronald Townson"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "was ist das trinkalter in neuseeland",
+  "antwort": [
+   "18"
+  ],
+  "typ": "number_with_unit",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer ist der Hauptdarsteller in der Fernsehserie Arrow",
+  "antwort": [
+   "Katie Cassidy",
+   "Katherine Evelyn Anita Cassidy",
+   "Katie Cassidy Rodgers"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wieviele Einwohner hat Aberdeen, South Dakota?",
+  "antwort": [
+   "28388"
+  ],
+  "typ": "number",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer spielt Leonards Mom in The Big Bang Theory",
+  "antwort": [
+   "Christine Baranski",
+   "Christine Jane Baranski"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Mit welchem Tag beginnt die Woche",
+  "antwort": [
+   "Montag",
+   "Mo"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann spielte Bruno Mars in der Super Bowl",
+  "antwort": [
+   "2014"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wo findet man Ellipsoidgelenke im menschlichen Körper",
+  "antwort": [
+   "Zwischen dem Mittelhandknochen und den Fingerknochen"
+  ],
+  "typ": "short_phrase",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie weit ist es von Tallahassee Florida nach Valdosta Georgia?",
+  "antwort": [
+   "72.6",
+   "72,6",
+   "72"
+  ],
+  "typ": "number_with_unit",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer ist der meist abonnierte Kanal auf youtube",
+  "antwort": [
+   "T-Series"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann wurde Hongkong Teil der Volksrepublik China",
+  "antwort": [
+   "1997"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wann erschien der film Soul Food",
+  "antwort": [
+   "1997"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer hat bei Speak of the Devil Gitarre gespielt",
+  "antwort": [
+   "Brad Gillis"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wo wird das nächste Weltmeisterschafts spiel ausgetragen",
+  "antwort": [
+   "2022"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer singt because the night belongs to lovers",
+  "antwort": [
+   "Patti Smith",
+   "Patricia Lee Smith"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wie hoch ist die Schriftkundigkeitsrate von Pakistan in 2017",
+  "antwort": [
+   "58"
+  ],
+  "typ": "number_with_unit",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer hat Saturday Night and I ain't Got Nobody gesungen?",
+  "antwort": [
+   "Sam Cooke",
+   "Samuel Cook"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wann startet die neue staffel von live pd",
+  "antwort": [
+   "2019"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Prozentsatz der Bevölkerung unterhalb der Armutsgrenze in Indien statistisch",
+  "antwort": [
+   "21.9",
+   "21,9",
+   "21"
+  ],
+  "typ": "number_with_unit",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer spricht die Stimmen von Bob's Burgers",
+  "antwort": [
+   "Eugene Mirman"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer ist das Mädchen von der Trivago-Anzeige",
+  "antwort": [
+   "de_DE"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Welche Sprache wird in Kite Runner gesprochen?",
+  "antwort": [
+   "Paschtu",
+   "Pashtu",
+   "پښتو",
+   "Paschtunisch",
+   "Afghanische Sprache und Literatur",
+   "Paschto",
+   "Paschtunische Sprache",
+   "Pashto"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "welcher Spieler hat die meisten Runs in der IPL",
+  "antwort": [
+   "Virat Kohli"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer ist der starting quarterback für die pittsburgh steelers",
+  "antwort": [
+   "Ben Roethlisberger",
+   "Benjamin Todd Roethlisberger"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wo wurde die erste Folge von game of thrones gedreht",
+  "antwort": [
+   "Schottland"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer sang we don't need no education",
+  "antwort": [
+   "Pink Floyd"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Schauspielerin, die Flo bei progressiver Versicherungswerbung spielt",
+  "antwort": [
+   "Stephanie Courtney"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Welcher NFL Quarterback hat die meisten Passspiele seiner Karriere",
+  "antwort": [
+   "Drew Brees",
+   "Andrew Christopher Brees"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann nahmen die Philadelphia Eagles zum letzen mal in der Super Bowl teil?",
+  "antwort": [
+   "2018"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer singt \"knock three times on the ceiling if you want me\"?",
+  "antwort": [
+   "Dawn"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer hat am 14. september geburtstag",
+  "antwort": [
+   "Andrew Lincoln",
+   "Andrew Clutterbuck",
+   "Andrew James Clutterbuck"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann wurde \"when i have fears that i may cease to be\" geschrieben",
+  "antwort": [
+   "1818"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann wurde der erste Spiderman-Comic herausgegeben",
+  "antwort": [
+   "1962"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wann haben die Phillies die World Series gewonnen",
+  "antwort": [
+   "2008"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer war der Frontsänger der eagles",
+  "antwort": [
+   "Glenn Frey",
+   "Glen Frey"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wann wurde das Buch der Löwe dieHexe und der kleiderschrank veröffentlicht",
+  "antwort": [
+   "1950"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wo wurde der erste Heißluftballon erfunden?",
+  "antwort": [
+   "Frankreich",
+   "Französische Republik",
+   "Republik Frankreich",
+   "fr"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Welches Gewässer grenzt an die innerer Grenze von Virginia?",
+  "antwort": [
+   "Chesapeake Bay"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer verbrachte die meiste Zeit auf dem Mond",
+  "antwort": [
+   "Gennadi Iwanowitsch Padalka",
+   "Padalka",
+   "Gennady Padalka",
+   "Gennady Ivanovich Padalka",
+   "Gennadi Padalka"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer spielt Belle im Zeichentrickfilm \"Die Schöne und das Biest\".",
+  "antwort": [
+   "Paige O’Hara",
+   "Paige O'Hara",
+   "Donna Paige Helmintoller"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer hat damit angefangen Neujahr am ersten Januar zu feiern",
+  "antwort": [
+   "Gaius Iulius Caesar",
+   "Gaius Julius Cäsar",
+   "Julius Caesar",
+   "Julius Cäsar",
+   "Caesar",
+   "Cäsar"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer sagte ein gespaltenes haus kann nicht bestehen",
+  "antwort": [
+   "Abraham Lincoln",
+   "Abe Lincoln",
+   "Lincoln",
+   "A. Lincoln",
+   "Präsident Lincoln"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer spielte jim lindsey in der andy griffith show",
+  "antwort": [
+   "James Best"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer hat die meisten Vorlagen in der Premier League in dieser Saison",
+  "antwort": [
+   "Kevin De Bruyne"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wer sang das Lied \"Lege deinen Kopf auf meine Schulter\"?",
+  "antwort": [
+   "Paul Anka",
+   "Paul Albert Anka"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wann wurde romeo und julia geschrieben und veröffentlicht",
+  "antwort": [
+   "1595"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wer sang die original version von the lion sleeps tonight",
+  "antwort": [
+   "Solomon Linda",
+   "Solomon Ntsele"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "größte Stadt, die keine Stadt Großbritanniens ist",
+  "antwort": [
+   "Northampton"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "wo liegt die insel der puppen",
+  "antwort": [
+   "Mexiko",
+   "Vereinigte Mexikanische Staaten",
+   "México",
+   "Mexihco",
+   "🇲🇽"
+  ],
+  "typ": "entity",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Wnn kam der König der Löwen Film heraus?",
+  "antwort": [
+   "2019"
+  ],
+  "typ": "date",
+  "quelle": "mkqa"
+ },
+ {
+  "frage": "Was war das Endergebnis des letztjährigen Super Bowl",
+  "antwort": [
+   "41-33"
+  ],
+  "typ": "short_phrase",
+  "quelle": "mkqa"
+ }
+]

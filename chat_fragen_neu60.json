@@ -1,0 +1,388 @@
+[
+ {
+  "frage": "Wie hoch ist der Brocken?",
+  "antwort": [
+   "1141"
+  ]
+ },
+ {
+  "frage": "Wie tief ist der Titicacasee?",
+  "antwort": [
+   "281",
+   "284"
+  ]
+ },
+ {
+  "frage": "Wie lang ist die Weser?",
+  "antwort": [
+   "452"
+  ]
+ },
+ {
+  "frage": "Wie hoch ist der Mont Blanc?",
+  "antwort": [
+   "4805",
+   "4806",
+   "4807",
+   "4808",
+   "4809",
+   "4810"
+  ]
+ },
+ {
+  "frage": "Wie lang ist der Main?",
+  "antwort": [
+   "524",
+   "527"
+  ]
+ },
+ {
+  "frage": "Wie tief ist der Tanganjikasee?",
+  "antwort": [
+   "1470"
+  ]
+ },
+ {
+  "frage": "Wie hoch ist der Kilimandscharo?",
+  "antwort": [
+   "5895"
+  ]
+ },
+ {
+  "frage": "Wie lang ist die Mosel?",
+  "antwort": [
+   "544"
+  ]
+ },
+ {
+  "frage": "Was ist die Hauptstadt von Portugal?",
+  "antwort": [
+   "Lissabon"
+  ]
+ },
+ {
+  "frage": "Wie heißt die Hauptstadt von Norwegen?",
+  "antwort": [
+   "Oslo"
+  ]
+ },
+ {
+  "frage": "Was ist die Hauptstadt von Sachsen?",
+  "antwort": [
+   "Dresden"
+  ]
+ },
+ {
+  "frage": "Welche Stadt ist die Hauptstadt von Kenia?",
+  "antwort": [
+   "Nairobi"
+  ]
+ },
+ {
+  "frage": "Welche Währung gilt in Japan?",
+  "antwort": [
+   "Yen"
+  ]
+ },
+ {
+  "frage": "Welche Währung hat Polen?",
+  "antwort": [
+   "Złoty",
+   "Zloty"
+  ]
+ },
+ {
+  "frage": "Welche Sprache spricht man in Mexiko?",
+  "antwort": [
+   "Spanisch"
+  ]
+ },
+ {
+  "frage": "Welche Sprache spricht man in Iran?",
+  "antwort": [
+   "Persisch"
+  ]
+ },
+ {
+  "frage": "Wer schrieb Faust?",
+  "antwort": [
+   "Goethe"
+  ]
+ },
+ {
+  "frage": "Wer schrieb Die Blechtrommel?",
+  "antwort": [
+   "Grass"
+  ]
+ },
+ {
+  "frage": "Wer schrieb Der Prozess?",
+  "antwort": [
+   "Kafka"
+  ]
+ },
+ {
+  "frage": "Wer schrieb Krieg und Frieden?",
+  "antwort": [
+   "Tolstoi"
+  ]
+ },
+ {
+  "frage": "Wer komponierte die Zauberflöte?",
+  "antwort": [
+   "Mozart"
+  ]
+ },
+ {
+  "frage": "Wer komponierte Carmen?",
+  "antwort": [
+   "Bizet"
+  ]
+ },
+ {
+  "frage": "Wann wurde Mozart geboren?",
+  "antwort": [
+   "1756"
+  ]
+ },
+ {
+  "frage": "Wann wurde Napoleon geboren?",
+  "antwort": [
+   "1769"
+  ]
+ },
+ {
+  "frage": "Wann wurde Martin Luther geboren?",
+  "antwort": [
+   "1483"
+  ]
+ },
+ {
+  "frage": "Wann wurde Schiller geboren?",
+  "antwort": [
+   "1759"
+  ]
+ },
+ {
+  "frage": "Wann wurde Kant geboren?",
+  "antwort": [
+   "1724"
+  ]
+ },
+ {
+  "frage": "Wann wurde die NATO gegründet?",
+  "antwort": [
+   "1949"
+  ]
+ },
+ {
+  "frage": "Wann wurde Leipzig gegründet?",
+  "antwort": [
+   "1165"
+  ]
+ },
+ {
+  "frage": "Wann wurde Google gegründet?",
+  "antwort": [
+   "1998"
+  ]
+ },
+ {
+  "frage": "Wer gründete Apple?",
+  "antwort": [
+   "Jobs",
+   "Wozniak",
+   "Wayne"
+  ]
+ },
+ {
+  "frage": "Wer gründete Amazon?",
+  "antwort": [
+   "Bezos"
+  ]
+ },
+ {
+  "frage": "Welcher Fluss fließt durch Dresden?",
+  "antwort": [
+   "Elbe"
+  ]
+ },
+ {
+  "frage": "Welcher Fluss fließt durch London?",
+  "antwort": [
+   "Themse"
+  ]
+ },
+ {
+  "frage": "Welcher Fluss fließt durch Budapest?",
+  "antwort": [
+   "Donau"
+  ]
+ },
+ {
+  "frage": "Wie viele Einwohner hat Köln?",
+  "antwort": [
+   "1,0",
+   "1,1"
+  ]
+ },
+ {
+  "frage": "Wie groß ist die Fläche von Bayern?",
+  "antwort": [
+   "70"
+  ]
+ },
+ {
+  "frage": "Wie groß ist Spanien?",
+  "antwort": [
+   "505",
+   "506"
+  ]
+ },
+ {
+  "frage": "Wie groß ist die Fläche Polens?",
+  "antwort": [
+   "312",
+   "313"
+  ]
+ },
+ {
+  "frage": "Wie hoch ist der Burj Khalifa?",
+  "antwort": [
+   "828",
+   "829",
+   "830"
+  ]
+ },
+ {
+  "frage": "Wie hoch ist das Empire State Building?",
+  "antwort": [
+   "381",
+   "443"
+  ]
+ },
+ {
+  "frage": "Wie hoch ist der Kölner Dom?",
+  "antwort": [
+   "157"
+  ]
+ },
+ {
+  "frage": "Welches Element hat das Zeichen Au?",
+  "antwort": [
+   "Gold"
+  ]
+ },
+ {
+  "frage": "Welches Element hat das Symbol Na?",
+  "antwort": [
+   "Natrium"
+  ]
+ },
+ {
+  "frage": "Wie groß ist der Durchmesser des Mars?",
+  "antwort": [
+   "6779",
+   "6792",
+   "6794"
+  ]
+ },
+ {
+  "frage": "Wie hoch ist der Watzmann?",
+  "antwort": [
+   "2713"
+  ]
+ },
+ {
+  "frage": "Wie lang ist der Amazonas?",
+  "antwort": [
+   "6400",
+   "6992",
+   "6448",
+   "7062"
+  ]
+ },
+ {
+  "frage": "Wer erfand den Dieselmotor?",
+  "antwort": [
+   "Diesel"
+  ]
+ },
+ {
+  "frage": "Wie tief ist der Gardasee?",
+  "antwort": [
+   "346"
+  ]
+ },
+ {
+  "frage": "Was ist die Hauptstadt von Argentinien?",
+  "antwort": [
+   "Buenos Aires"
+  ]
+ },
+ {
+  "frage": "Wer war Albert Einstein?",
+  "antwort": [
+   "Physiker"
+  ]
+ },
+ {
+  "frage": "Welches Tier legt Eier und ist ein Säugetier?",
+  "antwort": [
+   "Schnabeltier"
+  ]
+ },
+ {
+  "frage": "Wie viele Tage hat ein Schaltjahr?",
+  "antwort": [
+   "366"
+  ]
+ },
+ {
+  "frage": "Wann wurde die Berliner Mauer gebaut?",
+  "antwort": [
+   "1961"
+  ]
+ },
+ {
+  "frage": "Wer malte die Mona Lisa?",
+  "antwort": [
+   "Leonardo"
+  ]
+ },
+ {
+  "frage": "Welcher Fluss fließt durch Köln?",
+  "antwort": [
+   "Rhein"
+  ]
+ },
+ {
+  "frage": "Wie hoch ist der Großglockner?",
+  "antwort": [
+   "3798"
+  ]
+ },
+ {
+  "frage": "Wann wurde Hamburg gegründet?",
+  "antwort": [
+   "808",
+   "810",
+   "811",
+   "825"
+  ]
+ },
+ {
+  "frage": "Wie lang ist der Suezkanal?",
+  "antwort": [
+   "193",
+   "162",
+   "163"
+  ]
+ },
+ {
+  "frage": "Wer entdeckte das Penicillin?",
+  "antwort": [
+   "Fleming"
+  ]
+ }
+]

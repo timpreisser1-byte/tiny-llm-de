@@ -1,0 +1,572 @@
+[
+ {
+  "frage": "Wie hoch ist der Eiffelturm?",
+  "antwort": [
+   "330"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wie lang ist der Rhein?",
+  "antwort": [
+   "1232",
+   "1.232"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Was ist die Hauptstadt von Bayern?",
+  "antwort": [
+   "München"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wann wurde Goethe geboren?",
+  "antwort": [
+   "1749"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wann wurde die Berliner Mauer gebaut?",
+  "antwort": [
+   "1961"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wer hat die Relativitätstheorie entwickelt?",
+  "antwort": [
+   "Einstein"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wie tief ist der Bodensee?",
+  "antwort": [
+   "251",
+   "254"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wo liegt Quedlinburg?",
+  "antwort": [
+   "Harz",
+   "Sachsen-Anhalt"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wann fiel die Berliner Mauer?",
+  "antwort": [
+   "1989"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wie viele Bundesländer hat Deutschland?",
+  "antwort": [
+   "16",
+   "sechzehn"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wann begann der Zweite Weltkrieg?",
+  "antwort": [
+   "1939"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wann endete der Zweite Weltkrieg?",
+  "antwort": [
+   "1945"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wer schrieb den Faust?",
+  "antwort": [
+   "Goethe"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wie hoch ist die Zugspitze?",
+  "antwort": [
+   "2962",
+   "2.962"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Welcher Fluss fließt durch Hamburg?",
+  "antwort": [
+   "Elbe"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wann wurde die Bundesrepublik gegründet?",
+  "antwort": [
+   "1949"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wie heißt die Hauptstadt von Österreich?",
+  "antwort": [
+   "Wien"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wie lang ist die Donau?",
+  "antwort": [
+   "2857",
+   "2.857",
+   "2850"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wer war der erste Bundeskanzler?",
+  "antwort": [
+   "Adenauer"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wann wurde die Titanic versenkt?",
+  "antwort": [
+   "1912"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wie viele Einwohner hat Berlin?",
+  "antwort": [
+   "3,7",
+   "3,6",
+   "Millionen"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Was ist ein Transistor?",
+  "antwort": [
+   "Halbleiter"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wann war die Französische Revolution?",
+  "antwort": [
+   "1789"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wer komponierte die Neunte Sinfonie?",
+  "antwort": [
+   "Beethoven"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wie hoch ist der Mount Everest?",
+  "antwort": [
+   "8848",
+   "8.848",
+   "8849"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Welche Währung gilt in Deutschland?",
+  "antwort": [
+   "Euro"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wann wurde der Kölner Dom fertiggestellt?",
+  "antwort": [
+   "1880"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wer erfand die Buchdruckerkunst?",
+  "antwort": [
+   "Gutenberg"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wie groß ist die Fläche Deutschlands?",
+  "antwort": [
+   "357"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wann wurde die DDR gegründet?",
+  "antwort": [
+   "1949"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "In welchem Land liegt Salzburg?",
+  "antwort": [
+   "Österreich"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Welche Sprache spricht man in Brasilien?",
+  "antwort": [
+   "Portugiesisch"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Welches Metall leitet Strom am besten?",
+  "antwort": [
+   "Silber"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Woraus besteht Wasser?",
+  "antwort": [
+   "Wasserstoff",
+   "Sauerstoff"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Welcher Planet ist der Sonne am nächsten?",
+  "antwort": [
+   "Merkur"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wie viele Beine hat eine Spinne?",
+  "antwort": [
+   "acht",
+   "8"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Welches Tier ist das größte der Welt?",
+  "antwort": [
+   "Blauwal"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wer malte die Mona Lisa?",
+  "antwort": [
+   "Leonardo",
+   "Vinci"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Welcher Berg ist der höchste Europas?",
+  "antwort": [
+   "Elbrus",
+   "Montblanc",
+   "Mont Blanc"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wie viele Kontinente gibt es?",
+  "antwort": [
+   "sieben",
+   "7"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Welches Element hat das Zeichen Fe?",
+  "antwort": [
+   "Eisen"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wie viele Saiten hat eine Geige?",
+  "antwort": [
+   "vier",
+   "4"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Welche Stadt nennt man die Ewige Stadt?",
+  "antwort": [
+   "Rom"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wer war Marie Curie?",
+  "antwort": [
+   "Physikerin",
+   "Chemikerin",
+   "Nobelpreis"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Welches Land hat die meisten Einwohner?",
+  "antwort": [
+   "Indien",
+   "China"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Was misst ein Barometer?",
+  "antwort": [
+   "Luftdruck",
+   "Druck"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Welche Farbe entsteht aus Blau und Gelb?",
+  "antwort": [
+   "Grün",
+   "grün"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wie heißt der längste Fluss der Welt?",
+  "antwort": [
+   "Nil",
+   "Amazonas"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Welches Organ reinigt das Blut?",
+  "antwort": [
+   "Niere",
+   "Leber"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wann landete der erste Mensch auf dem Mond?",
+  "antwort": [
+   "1969"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Welche Tonart hat keine Vorzeichen?",
+  "antwort": [
+   "C-Dur"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wie viele Spieler hat eine Fußballmannschaft?",
+  "antwort": [
+   "elf",
+   "11"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Was bedeutet die Abkürzung CPU?",
+  "antwort": [
+   "Central",
+   "Prozessor"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Welcher Ozean ist der größte?",
+  "antwort": [
+   "Pazifik",
+   "Pazifischer"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wer schrieb die Zauberflöte?",
+  "antwort": [
+   "Mozart"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wie viele Grad hat ein rechter Winkel?",
+  "antwort": [
+   "90"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Welches Gas atmen Pflanzen ein?",
+  "antwort": [
+   "Kohlendioxid",
+   "CO2"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wo steht der schiefe Turm?",
+  "antwort": [
+   "Pisa"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Wie schnell ist das Licht?",
+  "antwort": [
+   "299",
+   "300"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ },
+ {
+  "frage": "Welches Land baute die Pyramiden?",
+  "antwort": [
+   "Ägypten"
+  ],
+  "absatz": "",
+  "titel": "",
+  "gruppe": "hand"
+ }
+]

@@ -1,0 +1,11 @@
+{
+  "vocab_size": 8192,
+  "specials": {
+    "<pad>": 0,
+    "<unk>": 1,
+    "<s>": 2,
+    "</s>": 3,
+    "\n<user>\n": 4,
+    "\n<assistant>\n": 5
+  }
+}
